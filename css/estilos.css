@@ -1,19 +1,15 @@
 /*--==================== FUENTES (INICIA) ========================--*/
 @font-face {
-	font-family: "ariblk";
-	src: url(../font/ariblk.ttf) format("truetype");
-}
-@font-face {
 	font-family: "my_riad_pro_regular";
 	src: url(../font/MyriadPro-Regular.otf) format("opentype");
 }
 @font-face {
-	font-family: "my_riad_pro_semibold";
-	src: url(../font/MyriadPro-Semibold.otf) format("opentype");
+	font-family: "Titillium-Regular";
+	src: url(../font/Titillium-Regular.otf) format("opentype");
 }
 @font-face {
-	font-family: "my_riad_pro_bold";
-	src: url(../font/MyriadPro-Bold.otf) format("opentype");
+	font-family: "Titillium-Semibold";
+	src: url(../font/Titillium-Semibold.otf) format("opentype");
 }
 /*--==================== FUENTES (TERMINA) ========================--*/
 
@@ -22,9 +18,205 @@
 body{
 	margin: 0;
 	width: 100%;
+
+	background-color: yellow;
 }
 .clear{
 	clear: both;
 }
 /*--==================== ESTILOS GENERALES (TERMINA)========================--*/
 
+
+
+/*--==================== ESTILOS CABECERA (INICIA)========================--*/
+header{
+	font-family: "Titillium-Semibold";
+	margin: 0 auto;
+	width: 90%;
+}
+.contacto-cabecera{
+	color: white;
+	float: left;
+	font-size: 0.8em;
+}
+.contacto-cabecera .naranja{
+	color: #EAB732;
+}
+.contacto-cabecera a{
+	color: white;
+	text-decoration: none;
+}
+.redes-sociales{
+	float: right;
+	font-size: 0.8em;
+	margin: 1em 0;
+}
+.redes-sociales a{
+	color: white;
+	margin: 0 8px;
+	text-decoration: none;
+}
+.menu-principal{
+	background-color: rgba(255,255,255, 0.5);
+	padding: 12.2px 24.5px;
+}
+.menu-principal img{
+	float: left;
+	width: 236px;
+}
+.menu-principal nav{
+	float: right;
+}
+.menu-principal ul{
+	display: flex;
+	justify-content: flex-end;
+	list-style: none;
+	padding: 0;
+}
+.menu-principal nav a{
+	color: #767676;
+	display: block;
+	margin: 10px 10px;
+	text-decoration: none;
+}
+
+
+
+/*.menu-responsive{
+	display: none;
+	font-family: "my_riad_pro_regular";
+	margin-top: 2%;
+	position: relative;
+	width: 100%;
+}
+.menu-responsive label{
+	display: block;
+	height: 30px;
+	width: 30px;
+}
+.menu-responsive label:hover{
+	background-color: rgba(213,133,44,0.7);
+	cursor: pointer;
+}
+.menu-responsive img{
+	margin: 0;
+	padding: 0;
+	width: 30px;
+}
+#btn-menu{
+	display: none;
+}
+.menu{
+	background-color: rgba(44,61,109,0.8);
+	left: -500px;
+	position: absolute;
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	width: 250px;
+	z-index: 1000;
+}
+.menu ul{
+	display: flex;
+	flex-direction: column;
+  	list-style: none;
+  	margin: 0;
+  	padding: 0;	
+}
+.menu li a{
+	color: white;
+ 	display: block;
+  	font-size: 1em;
+  	padding: 15px 20px 15px 20px;
+  	text-align: left;
+  	text-decoration: none;  	
+}
+#btn-menu:checked ~ .menu{
+	left: 0;
+}*/
+/*--==================== ESTILOS CABECERA (TERMINA)========================--*/
+
+
+
+
+
+/*--==================== ESTILOS SLIDER (INICIA)========================--*/
+.posicion-slider{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+}
+#contenedor-slider{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+#slider{
+	display: flex;
+	width: 300%;
+}
+
+#slider section{
+	position: relative;
+	width: 100%;
+}
+
+#slider img{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+#slider .texto-slider{
+	color: white;
+	left: 12%;
+	position: absolute;
+	text-align: center;
+	top: 30%;
+	width: 400px;
+}
+.texto-slider h2{
+	font-family: "Titillium-Semibold";
+	font-size: 4em;
+	margin: 0;
+}
+.texto-slider p{
+	font-family: "Titillium-Regular";
+	margin: 0 auto;
+	margin-bottom: 30px;
+	width: 85%;
+}
+.texto-slider a{
+	background-color: #2B325C;
+	border-radius: 5px;
+	color: white;
+	font-family: "Titillium-Regular";
+	font-size: 1.5em;
+	padding: 0 50px;
+	padding-bottom: 2px;
+	text-decoration: none;
+}
+
+#btn-avanzar, #btn-retroceder{
+	cursor: pointer;
+	height: 40px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 40px;
+}
+
+#btn-avanzar img, #btn-retroceder img{
+	width: 80%;
+}
+
+#btn-avanzar{
+	right: 5px;
+}
+
+#btn-retroceder{
+	left: 10px;
+}
+/*--==================== ESTILOS SLIDER (TERMINA)========================--*/

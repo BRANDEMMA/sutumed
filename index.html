@@ -13,7 +13,7 @@
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
-	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
 
 <!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
@@ -22,23 +22,30 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 <!--================== 	ENLACE ICONO (TERMINA)  =====================-->
+
+<!--================== 	SCRIPT PARA SLIDER (INICIA)  =====================-->
+
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<!--================== 	SCRIPT PARA SLIDER (TERMINA)  =====================-->
+
 </head>
 
 <body>
 	<header>
 		<div class="contacto-cabecera">
-			<p>Have any questions? <i class="fa fa-phone naranja" aria-hidden="true"></i>USA +1 (239) 888 7805 <i class="fa fa-envelope-o naranja" aria-hidden="true"></i> info@sutumed.us</p>
+			<p>Have any questions? &nbsp; <a href=""><i class="fa fa-phone naranja" aria-hidden="true"></i> USA +1 (239) 888 7805</a> &nbsp;&nbsp; <a href=""><i class="fa fa-envelope-o naranja" aria-hidden="true"></i> info@sutumed.us</a></p>
 		</div>
 		<div class="redes-sociales">
-			<i class="fa fa-facebook" aria-hidden="true"></i>
-			<i class="fa fa-google-plus" aria-hidden="true"></i>
-			<i class="fa fa-twitter" aria-hidden="true"></i>
-			<i class="fa fa-youtube-play" aria-hidden="true"></i>
+			<a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			<a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+			<a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
 		</div>
 		<div class="clear"></div>
 
 		<div class="menu-principal">
-			<a href=""><img src="img/logo-sutumed.gif"></a>
+			<a href=""><img src="img/logo-sutumed.png"></a>
 			<nav>
 				<ul>
 					<li><a href="">Inicio</a></li>
@@ -50,6 +57,7 @@
 					<li><a href="">Contacto</a></li>
 				</ul>
 			</nav>
+			<div class="clear"></div>
 		</div>
 		<!-- MENU RESPONSIVE -->
 		<!-- <div class="menu-responsive">
@@ -71,6 +79,43 @@
 		</div> -->
 		<!-- MENU RESPONSIVE -->
 	</header>
+	<div class="posicion-slider">
+		<div id="contenedor-slider">
+			<div id="slider">
+				<section>
+					<img src="img/slider1.jpg" alt="">
+					<div class="texto-slider">
+						<h2>TEXTO slider1</h2>
+						<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+						<a href="">Botón</a>
+					</div>
+				</section>
+				<section>
+					<img src="img/slider1.jpg" alt="">
+					<div class="texto-slider">
+						<h2>TEXTO slider2</h2>
+						<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+						<a href="">Botón</a>
+					</div>
+				</section>
+				<section>
+					<img src="img/slider1.jpg" alt="">
+					<div class="texto-slider">
+						<h2>TEXTO slider3</h2>
+						<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+						<a href="">Botón</a>
+					</div>
+				</section>
+			</div>
+			<div id="btn-avanzar">
+				<img src="img/flecha-derecha.png">
+			</div>
+			<div id="btn-retroceder">
+				<img src="img/flecha-izquierda.png">
+			</div>
+			<script src="js/slider.js"></script>
+		</div>
+	</div>
 </body>
 
 </html>
