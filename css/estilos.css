@@ -1,0 +1,30 @@
+/*--==================== FUENTES (INICIA) ========================--*/
+@font-face {
+	font-family: "ariblk";
+	src: url(../font/ariblk.ttf) format("truetype");
+}
+@font-face {
+	font-family: "my_riad_pro_regular";
+	src: url(../font/MyriadPro-Regular.otf) format("opentype");
+}
+@font-face {
+	font-family: "my_riad_pro_semibold";
+	src: url(../font/MyriadPro-Semibold.otf) format("opentype");
+}
+@font-face {
+	font-family: "my_riad_pro_bold";
+	src: url(../font/MyriadPro-Bold.otf) format("opentype");
+}
+/*--==================== FUENTES (TERMINA) ========================--*/
+
+
+/*--==================== ESTILOS GENERALES (INICIA)========================--*/
+body{
+	margin: 0;
+	width: 100%;
+}
+.clear{
+	clear: both;
+}
+/*--==================== ESTILOS GENERALES (TERMINA)========================--*/
+
