@@ -18,8 +18,6 @@
 body{
 	margin: 0;
 	width: 100%;
-
-	background-color: yellow;
 }
 .clear{
 	clear: both;
@@ -32,7 +30,14 @@ body{
 header{
 	font-family: "Titillium-Semibold";
 	margin: 0 auto;
+	top: 0;
 	width: 90%;
+}
+.posicion{
+	position: absolute;
+	top: 0;
+	width: 90%;
+	z-index: 10;
 }
 .contacto-cabecera{
 	color: white;
@@ -142,12 +147,6 @@ header{
 
 
 /*--==================== ESTILOS SLIDER (INICIA)========================--*/
-.posicion-slider{
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index: -1;
-}
 #contenedor-slider{
 	position: relative;
 	overflow: hidden;
@@ -220,3 +219,52 @@ header{
 	left: 10px;
 }
 /*--==================== ESTILOS SLIDER (TERMINA)========================--*/
+
+
+
+
+
+/*--==================== ESTILOS INDEX (INICIA)========================--*/
+.contenedor-caracteristicas{
+	font-family: "Titillium-Regular";
+	margin: 0 auto;
+	text-align: center;
+	width: 90%;
+}
+.contenedor-caracteristicas h2{
+	color: #2B325C;
+	margin-bottom: 8%;
+}
+.caracteristicas{
+	color: #707070;
+	float: left;
+    /*padding: 0 2%;*/
+    width: 255px;
+}
+.margen{
+	padding-right: 5.33%;
+}
+.caracteristicas .img1{
+	width: 40%;
+}
+.caracteristicas .img2{
+    padding-top: 10%;
+	width: 40%;
+}
+.caracteristicas .img3{
+    padding-top: 4%;
+	width: 70%;
+}
+.caracteristicas .img4{
+	width: 40%;
+}
+.caracteristicas h4{
+	font-weight: lighter;
+	font-size: 1em;
+}
+.caracteristicas p{
+	font-size: 0.8em;
+	margin: 0 auto;
+	width: 85%;    
+}
+/*--==================== ESTILOS INDEX (TERMINA)========================--*/
