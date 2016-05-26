@@ -324,7 +324,7 @@ header{
 }
 .titulo-secciones{
 	background-color: rgba(43,50,92,0.6);
-	bottom: 5px;
+	bottom: 4px;
 	color: white;
 	font-family: "Titillium-Regular";
 	padding: 1.5% 0;
@@ -436,3 +436,43 @@ header{
 	padding: 4% 1%;
 }
 /*--==================== ESTILOS DE LA SECCION NOTICIAS (TERMINA)========================--*/
+
+
+
+
+
+
+
+
+
+
+/*--==================== ESTILOS DE LA SECCION SUTURAS (INICIA)========================--*/
+.contenedor-sutura{
+	margin-top: -4px;
+	position: relative;
+	width: 100%;
+}
+.img-sutura{
+	float: left;
+	width: 40%;
+}
+.img-sutura img{
+	width: 100%;
+}
+.caracteristicas-sutura{
+	background-color: #5E5E5E;
+	bottom: 0;
+	color: white;
+	float: left;
+	font-family: "Titillium-Regular";
+	overflow: inherit;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 60%;
+}
+.caracteristicas-sutura img{
+	border: 5px solid #707070;
+	width: 25%;
+}
+/*--==================== ESTILOS DE LA SECCION SUTURAS (TERMINA)========================--*/

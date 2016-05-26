@@ -19,7 +19,7 @@
 					<ul>
 						<li><a href="index.php">Inicio</a></li>
 						<li><a href="nosotros.php">Nosotros</a></li>
-						<li><a href="">Suturas</a></li>
+						<li><a href="suturas.php">Suturas</a></li>
 						<li><a href="">Mallas</a></li>
 						<li><a href="">Certificaciones</a></li>
 						<li><a href="noticias.php">Noticias</a></li>
