@@ -228,6 +228,7 @@ header{
 .contenedor-caracteristicas{
 	font-family: "Titillium-Regular";
 	margin: 0 auto;
+	margin-bottom: 5%;
 	text-align: center;
 	width: 90%;
 }
@@ -267,4 +268,171 @@ header{
 	margin: 0 auto;
 	width: 85%;    
 }
+
+.contenedor-gris{
+	background-color: #EAEAEA;
+	padding: 3%;
+}
+.resumen-nosotros{
+	color: #707070;
+	font-family: "Titillium-Regular";
+	width: 45%;
+}
+.resumen-nosotros img{
+	width: 100%;
+}
 /*--==================== ESTILOS INDEX (TERMINA)========================--*/
+
+
+
+
+
+
+
+/*--==================== ESTILOS CONTACTO (INICIA)========================--*/
+.contenedor-azul{
+	background-color: #2B325C;
+}
+.textos{
+	color: white;
+	float: left;
+	width: 25%;
+}
+.textos h4{
+	font-family: "Titillium-Semibold";
+	font-weight: lighter;
+	text-decoration: underline;
+}
+.textos p{
+	font-family: "Titillium-Regular";
+}
+/*--==================== ESTILOS CONTACTO (TERMINA)========================--*/
+
+
+
+
+
+
+
+/*--==================== ESTILOS DE LA SECCION NOSOTROS (INICIA)========================--*/
+.contenedor-titulo-secciones{
+	position: relative;
+	width: 100%;
+}
+.contenedor-titulo-secciones img{
+	width: 100%;
+}
+.titulo-secciones{
+	background-color: rgba(43,50,92,0.6);
+	bottom: 5px;
+	color: white;
+	font-family: "Titillium-Regular";
+	padding: 1.5% 0;
+	position: absolute;
+	width: 100%;
+}
+.titulo-secciones h2{
+	font-size: 2.5em;
+	font-weight: lighter;
+	margin: 0;
+	margin-left: 5%;
+}
+.contenido-nosotros{
+	color: #707070;
+	font-family: "Titillium-Regular";
+	margin: 0 auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	text-align: justify;
+	width: 65%;
+}
+.contenido-nosotros h3{
+	font-size: 2em;
+    font-weight: lighter;
+    margin: 0;
+}
+.contenido-nosotros .subtitulo{
+	margin-top: 0;
+    margin-bottom: 5%;
+}
+.img-nosotros1{
+	float: right;
+	padding-bottom: 3%;
+	padding-left: 3%;
+	width: 45%;
+}
+.img-nosotros2{
+	float: left;
+	padding-bottom: 3%;
+	padding-right: 3%;
+	width: 45%;
+}
+/*--==================== ESTILOS DE LA SECCION NOSOTROS (TERMINA)========================--*/
+
+
+
+
+
+/*--==================== ESTILOS DE LA SECCION NOTICIAS (INICIA)========================--*/
+.noticias-blanco{
+	padding: 4% 1%;
+	width: 98%;
+}
+.img-noticia{
+	float: left;
+	padding-top: 8%;
+	width: 30%;
+}
+.img-noticia img{
+	width: 95%;
+}
+.texto-noticia{
+	border-left: 2px solid #707070;
+	color: #707070;
+	float: left;
+	font-family: "Titillium-Regular";
+	padding: 3% 0 3% 3%;
+	width: 66.5%;
+}
+.texto-noticia h3{
+	font-size: 1.5em;
+    font-weight: lighter;
+    margin: 0;
+}
+.texto-noticia .subtitulo{
+	margin-top: 0;
+}
+.texto-noticia .detalles{
+	margin-bottom: 3%;
+	padding-left: 2%;
+}
+.negro{
+	color: black;
+}
+.texto-noticia .fa-thumb-tack{
+	color: #787878;
+	-ms-transform: rotate(40deg); /* IE 9 */
+	-moz-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg); /* Chrome, Safari, Opera */
+    transform: rotate(40deg);
+}
+.texto-noticia a{
+    background-color: #F7F7F7;
+    border-radius: 5px;
+    color: #707070;
+    font-size: 0.8em;
+    padding: 10px 10px 10px 0;
+    text-decoration: none;
+}
+.texto-noticia span{	
+    background-color: #EBEBEA;
+    border-radius: 5px 0 0 5px;
+    font-size: 1em;
+    margin-right: 10px;
+    padding: 10px 15px;    
+}
+.noticias-gris{
+	background-color: #EFEFEE;
+	padding: 4% 1%;
+}
+/*--==================== ESTILOS DE LA SECCION NOTICIAS (TERMINA)========================--*/
