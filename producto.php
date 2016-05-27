@@ -38,18 +38,15 @@
 		</div>
 	</div>
 
-	<div class="contenedor-sutura">
-		<div class="img-sutura">
+	<div class="contenedor-producto">
+		<div class="img-producto">
 			<img src="img/producto-sutures.jpg">
 		</div>
-		<div class="caracteristicas-sutura">
+		<div class="caracteristicas-producto">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Características de Nuestras Suturas &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 			<p>Santiago de chile - CHILE</p>
 
-			<p class="margen-inferior">Las suturas quirúrgicas se emplean para aproximar tejidos y ligar vasos sanguíneos de forma temporal, y se aplican en diversos procedimientos de acuerdo a las propiedades y características de la hebra y aguja con que han sido fabricadas. Pueden ser degradadas por enzimas (en el caso de la sutura de origen natural de Catgut) o hidrolizadas por fluidos tisulares (en el caso de las sintéticas), por lo que no es necesario retirarlas. Su proceso de degradación hace que la resistencia de estas suturas disminuya con el tiempo.</p>
-
-			<img src="img/sutures.jpg">
-			<img src="img/sutures.jpg">
+			<p>Las suturas quirúrgicas se emplean para aproximar tejidos y ligar vasos sanguíneos de forma temporal, y se aplican en diversos procedimientos de acuerdo a las propiedades y características de la hebra y aguja con que han sido fabricadas. Pueden ser degradadas por enzimas (en el caso de la sutura de origen natural de Catgut) o hidrolizadas por fluidos tisulares (en el caso de las sintéticas), por lo que no es necesario retirarlas. Su proceso de degradación hace que la resistencia de estas suturas disminuya con el tiempo.</p>
 		</div>
 
 		<div class="clear"></div>
@@ -58,6 +55,29 @@
 	<div class="contenedor-nuevos">
 		<h3>NUEVOS PRODUCTOS</h3>
 
+		<div class="nuevos-productos">
+			<a href=""><img src="img/producto-sutures.jpg"></a>
+			<a href=""><h4>Expodent abril</h4>
+			<p>Santiago de chile - CHILE</p></a>
+		</div>
+
+		<div class="nuevos-productos">
+			<a href=""><img src="img/producto-sutures.jpg"></a>
+			<a href=""><h4>Expodent abril</h4>
+			<p>Santiago de chile - CHILE</p></a>
+		</div>
+
+		<div class="nuevos-productos">
+			<a href=""><img src="img/producto-sutures.jpg"></a>
+			<a href=""><h4>Expodent abril</h4>
+			<p>Santiago de chile - CHILE</p></a>
+		</div>
+
+		<div class="nuevos-productos">
+			<a href=""><img src="img/producto-sutures.jpg"></a>
+			<a href=""><h4>Expodent abril</h4>
+			<p>Santiago de chile - CHILE</p></a>
+		</div>
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
 			<a href=""><h4>Expodent abril</h4>
