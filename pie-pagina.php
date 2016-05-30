@@ -2,7 +2,14 @@
 ?>
 
 <div class="contenedor-azul">
-	<div class="textos">
+	<div class="logo-texto">
+		<img src="img/logo-sutumed-blanco.png">
+		<p>Lorem ipsum dolor sit  eros erat sodales augue, sed 
+			tempor nibh diam in lacus. Quisque gravida massa et
+			quam mattis, a tincidunt erat ullamcorper. </p>	
+	</div>
+
+	<div class="textos espaciado">
 		<h4>Absorbable Sutures</h4>
 		<p>Antibacterial Polyglycolic Acid<br>
 		Chromic Catgut<br>
@@ -13,7 +20,7 @@
 		Polyglecaprone</p>
 	</div>
 
-	<div class="textos">
+	<div class="textos espaciado">
 		<h4>Non Absorbable Sutures</h4>
 		<p>Black Braided Silk<br>
 		Black Braided Nylon<br>

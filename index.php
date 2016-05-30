@@ -107,6 +107,80 @@
 			<p>En Vital Sutures somos especialistas en la producción y comercialización de Dispositivos Médicos. Venimos ofreciendo desde hace 10 años nuestra línea de suturas quirúrgicas cumpliendo con los más altos estándares de calidad, satisfaciendo los requerimientos del profesional médico y contribuyendo al éxito de todo tipo de procedimientos quirúrgicos. Actualmente Vital Sutures tiene presencia en 27 países del Mundo, en todos los continentes, gracias al cumplimiento de nuestro compromiso de garantizar la excelencia en la calidad de nuestros productos. Como pilar de esta premisa contamos con las certificaciones internacionales CE 1023, de la Comunidad Europea, y FDA, de los Estados Unidos.</p>
 		</div>
 
+		<div class="slider-info">
+			<div id="contenedor-slider-info">
+				<div id="slider-info">
+					<section>
+						<div class="articulos-info espaciado-articulo-info">
+							<img src="img/articulo-info-slider2.jpg" alt="">
+							<div class="texto-articulo">
+								<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
+								<p>Vital Sutures, leading company in the market of surgical sutures and medical devices for 55 years…</p>
+								<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Ver más</a>
+							</div>
+						</div>
+
+						<div class="articulos-info">
+							<img src="img/articulo-info-slider.jpg" alt="">
+							<div class="texto-articulo">
+								<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
+								<p>Vital Sutures, leading company in the market of surgical sutures and medical devices for 55 years…</p>
+								<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Ver más</a>
+							</div>
+						</div>
+						<div class="clear"></div>
+					</section>
+					<section>
+						<div class="articulos-info espaciado-articulo-info">
+							<img src="img/articulo-info-slider2.jpg" alt="">
+							<div class="texto-articulo">
+								<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
+								<p>Vital Sutures, leading company in the market of surgical sutures and medical devices for 55 years…</p>
+								<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Ver más</a>
+							</div>
+						</div>
+
+						<div class="articulos-info">
+							<img src="img/articulo-info-slider.jpg" alt="">
+							<div class="texto-articulo">
+								<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
+								<p>Vital Sutures, leading company in the market of surgical sutures and medical devices for 55 years…</p>
+								<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Ver más</a>
+							</div>
+						</div>
+						<div class="clear"></div>
+					</section>
+					<section>
+						<div class="articulos-info espaciado-articulo-info">
+							<img src="img/articulo-info-slider2.jpg" alt="">
+							<div class="texto-articulo">
+								<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
+								<p>Vital Sutures, leading company in the market of surgical sutures and medical devices for 55 years…</p>
+								<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Ver más</a>
+							</div>
+						</div>
+
+						<div class="articulos-info">
+							<img src="img/articulo-info-slider.jpg" alt="">
+							<div class="texto-articulo">
+								<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
+								<p>Vital Sutures, leading company in the market of surgical sutures and medical devices for 55 years…</p>
+								<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Ver más</a>
+							</div>
+						</div>
+						<div class="clear"></div>
+					</section>
+				</div>
+			</div>
+			<div id="btn-avanzar2">
+				<img src="img/flecha-derecha-azul.png">
+			</div>
+			<div id="btn-retroceder2">
+				<img src="img/flecha-izquierda-azul.png">
+			</div>
+			<script src="js/slider2.js"></script>
+		</div>
+
 		<div class="clear"></div>
 	</div>
 

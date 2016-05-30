@@ -275,7 +275,9 @@ header{
 }
 .resumen-nosotros{
 	color: #707070;
+	float: left;
 	font-family: "Titillium-Regular";
+	margin-right: 2%;
 	width: 45%;
 }
 .resumen-nosotros img{
@@ -287,16 +289,167 @@ header{
 
 
 
+/*--==================== ESTILOS SLIDER INFO (INICIA)========================--*/
+.slider-info{
+	float: left;
+	position: relative;
+	width: 53%;
+}
+#contenedor-slider-info{
+	overflow: hidden;
+	margin: 0 auto;
+	width: 90%;
+}
+
+#slider-info{
+	display: flex;
+	width: 300%;
+}
+
+#slider-info section{
+	position: relative;
+	width: 100%;
+}
+.articulos-info{
+	float: left;
+	width: 48%;
+}
+.espaciado-articulo-info{
+	margin-right: 4%;
+}
+.articulos-info img{
+	width: 100%;
+}
+.articulos-info .texto-articulo{
+	background-color: white;
+	color: #6C6E6D;
+	font-family: "Titillium-Regular";
+	padding: 5% 10%;
+	text-align: center;
+	width: 80%;
+}
+.texto-articulo h4{
+	font-size: 0.7em;
+	margin-bottom: 0;
+	text-align: left;
+}
+.texto-articulo p{
+	font-size: 0.6em;
+	margin-bottom: 6%;
+	text-align: left;
+}
+.texto-articulo .fa-thumb-tack{
+	color: #00315E;
+	-ms-transform: rotate(40deg); /* IE 9 */
+	-moz-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg); /* Chrome, Safari, Opera */
+    transform: rotate(40deg);
+}
+.texto-articulo a{
+    background-color: #F9FAF9;
+    border-radius: 5px;
+    color: #00315E;
+    font-size: 0.8em;
+    padding: 2px 10px 4px 0;
+    text-decoration: none;
+}
+.texto-articulo span{	
+    background-color: #EDEEEC;
+    border-radius: 5px 0 0 5px;
+    font-size: 1em;
+    margin-right: 10px;
+    padding: 2px 10px 4px 10px;  
+}
+#slider-info img{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+#slider-info .texto-slider2{
+	color: white;
+	left: 12%;
+	position: absolute;
+	text-align: center;
+	top: 30%;
+	width: 400px;
+}
+.texto-slider2 h2{
+	font-family: "Titillium-Semibold";
+	font-size: 4em;
+	margin: 0;
+}
+.texto-slider2 p{
+	font-family: "Titillium-Regular";
+	margin: 0 auto;
+	margin-bottom: 30px;
+	width: 85%;
+}
+.texto-slider2 a{
+	background-color: #2B325C;
+	border-radius: 5px;
+	color: white;
+	font-family: "Titillium-Regular";
+	font-size: 1.5em;
+	padding: 0 50px;
+	padding-bottom: 2px;
+	text-decoration: none;
+}
+
+#btn-avanzar2, #btn-retroceder2{
+	cursor: pointer;
+	height: 40px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 40px;
+}
+
+#btn-avanzar2 img, #btn-retroceder2 img{
+	width: 100%;
+}
+
+#btn-avanzar2{
+	right: 0;
+	width: 20px;
+}
+
+#btn-retroceder2{
+	left: 0;
+	width: 20px;
+}
+/*--==================== ESTILOS SLIDER INFO (TERMINA)========================--*/
+
+
+
+
+
 
 
 /*--==================== ESTILOS CONTACTO (INICIA)========================--*/
 .contenedor-azul{
 	background-color: #2B325C;
+	padding: 2% 4%;
+}
+.logo-texto{
+	float: left;
+    margin-right: 20%;
+    width: 20%;
+}
+.logo-texto img{
+	width: 95%;
+}
+.logo-texto p{
+	color: white;
+	font-family: "Titillium-Regular";
+	font-size: 0.7em;
+    line-height: 2;
+    margin-top: 10%;
 }
 .textos{
 	color: white;
-	float: left;
-	width: 25%;
+    float: left;
+    font-size: 0.8em;
+    width: 13%;
 }
 .textos h4{
 	font-family: "Titillium-Semibold";
@@ -305,6 +458,9 @@ header{
 }
 .textos p{
 	font-family: "Titillium-Regular";
+}
+.espaciado{
+	margin-right: 10%;
 }
 /*--==================== ESTILOS CONTACTO (TERMINA)========================--*/
 
@@ -665,6 +821,7 @@ header{
 .derecha-formulario label{
 	color: #636462;
 	font-size: 0.8em;
+	line-height: 2.5;
 }
 .campos-formulario input{
 	border: 1px solid #ebebea;
