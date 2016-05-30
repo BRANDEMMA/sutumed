@@ -45,12 +45,12 @@
 	<div class="contenedor-datos-contacto">
 		<div class="datos-contacto">
 			<i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i>
-			<p>Have any questions?<br><a href="">info@sutumed.us</a></p>
+			<p>Have any questions?<br><a href="mailto:info@sutumed.us">info@sutumed.us</a></p>
 		</div>
 
 		<div class="datos-contacto">
 			<i class="fa fa-comment fa-2x" aria-hidden="true"></i>
-			<p>Call us<br><a href="">USA + 1 (239) 888 7805</a></p>
+			<p>Call us<br><a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a></p>
 		</div>		
 
 		<div class="clear"></div>
@@ -74,7 +74,7 @@
 		</div>
 
 		<div class="derecha-formulario">
-			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">
+			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/mensaje-contacto.php">
 				<div class="centrado" id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div>
 
 				<div class="campos-formulario">

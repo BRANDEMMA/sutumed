@@ -283,6 +283,13 @@ header{
 .resumen-nosotros img{
 	width: 100%;
 }
+.resumen-nosotros h4{
+	font-weight: lighter;
+}
+.resumen-nosotros p{
+	font-size: 0.8em;
+	text-align: justify;
+}
 /*--==================== ESTILOS INDEX (TERMINA)========================--*/
 
 
@@ -425,7 +432,113 @@ header{
 
 
 
-/*--==================== ESTILOS CONTACTO (INICIA)========================--*/
+/*--==================== ESTILOS DEL CONTACTO (INICIA)========================--*/
+.contenedor-contacto-desplegable{
+	bottom: 0;
+	padding-top: 10%;
+	position: fixed;
+	right: 0;
+	width: 30%;
+	z-index: 100;
+}
+
+#boton-contacto-desplegable{
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	margin-bottom: 5px;
+	margin-right: 10px;
+	width: 155px;
+}
+#boton-contacto-desplegable p{
+	background-color: white;
+	border-radius: 10px 0 0 10px;
+	color: #2B325C;
+	font-family: "Titillium-Semibold";
+	height: 25px;
+	margin: 0;
+	padding: 2px 15px 1px 15px;
+}
+#boton-contacto-desplegable span{
+	background-color: #2B325C;
+	border-radius: 50%;
+	color: white;
+	margin-left: -6px;
+    margin-top: -20px;
+    padding: 15px 17px;
+}
+
+#formulario{
+	background-color: rgba(43, 50, 92, 0.85);
+	border-radius: 20px 20px 0 0;
+	display: none;
+	width: 100%;
+}
+#formulario form{
+	margin: 0 auto;
+	padding: 7% 0 3% 0;
+	width: 85%;
+}
+#formulario form p{
+	color: white;
+	font-family: "Titillium-Regular";
+	font-size: 0.8em;
+	margin-top: 0;
+	text-align: justify;
+}
+#formulario label{
+	color: white;
+	font-family: "Titillium-Regular";
+	font-size: 0.8em;
+	line-height: 2;
+}
+#formulario input{
+	border: none;
+	height: 15px;
+	width: 100%;
+}
+#formulario textarea{
+	border: none;
+	height: 50px;
+	width: 99%;
+}
+#formulario .error{
+	color: red;
+	display: none;
+	font-family: "Titillium-Regular";
+	font-size: 0.7em;
+	padding-top: 5px;
+	text-align: center;
+}
+#formulario #ajaxsuccess {
+	clear:both;
+	color: #88DD36;
+	display: none;
+	font-family: "Titillium-Regular";
+	font-size:18px;
+	font-weight:bold;
+	padding-bottom: 10px;
+	width: 100%;
+}
+#formulario .boton2{
+	background-color: #EDEEEC;
+	border: none;
+	border-radius: 5px;
+	color: #00315E;
+	float: right;
+	font-family: "Titillium-Semibold";
+	padding: 5px 15px;
+}
+/*--==================== ESTILOS DEL CONTACTO (TERMINA)========================--*/
+
+
+
+
+
+
+
+/*--==================== ESTILOS PIE PAGINA (INICIA)========================--*/
 .contenedor-azul{
 	background-color: #2B325C;
 	padding: 2% 4%;
@@ -462,7 +575,7 @@ header{
 .espaciado{
 	margin-right: 10%;
 }
-/*--==================== ESTILOS CONTACTO (TERMINA)========================--*/
+/*--==================== ESTILOS PIE PAGINA (TERMINA)========================--*/
 
 
 

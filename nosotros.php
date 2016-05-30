@@ -22,6 +22,22 @@
 
 <!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR UN DIV (INICIA)  =====================-->
+	
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#boton-contacto-desplegable').click('click', function(){
+				$('#formulario').slideToggle('slow', function () {
+
+				});
+			});
+		});
+	</script>
+
+<!--================== 	SCRIPT PARA LLAMAR A DIV OCULTO (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -54,6 +70,10 @@
 		</p>
 
 	</div>
+
+	<?php
+		include 'contacto-desplegable.php';
+	?>
 
 	<?php
 		include 'pie-pagina.php';
