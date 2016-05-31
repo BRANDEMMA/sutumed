@@ -7,7 +7,7 @@
 		</div>
 		<div class="clear"></div>
 		<div id="formulario">
-			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/mensaje-contacto.php">
+			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/mensaje-contacto2.php">
 			<p>Estamos alegres de poder atenderte. Envíanos tus requerimientos o preguntas y gustosamente uno de nuestros operadores se contactará con usted!</p>
 				<div class="centrado verde" id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div>
 
