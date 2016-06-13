@@ -59,7 +59,24 @@
 			<img src="img/producto-sutures.jpg">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Características de Nuestras Suturas &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Antibacterial Polyglycolic Acid &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+
+			<div class="izq-producto">
+				<h4>General</h4>
+				<p>&#8226; Suture fast absorption.<br>
+				&#8226; Generally known under the trade name Vicryl Plus.<br>
+				&#8226; Stranded strand.<br>
+				&#8226; Glycolide and lactic polymer coated polyglactin 370 , calcium stearate and tryclosan.<br>
+				&#8226; It is absorbed by hydrolysis 40 days.
+				</p>
+
+				<h4>Other features</h4>
+				<p>&#8226; Color: violet.<br>
+				&#8226; Thread size: from 5/0 to 2 USP.<br>
+				&#8226; Sterilized by Ethylene Oxide.<br>
+				&#8226; Boxes with 12 or 36 units.
+				</p>
+			</div>
 			<p>Santiago de chile - CHILE</p>
 
 			<p>Las suturas quirúrgicas se emplean para aproximar tejidos y ligar vasos sanguíneos de forma temporal, y se aplican en diversos procedimientos de acuerdo a las propiedades y características de la hebra y aguja con que han sido fabricadas. Pueden ser degradadas por enzimas (en el caso de la sutura de origen natural de Catgut) o hidrolizadas por fluidos tisulares (en el caso de las sintéticas), por lo que no es necesario retirarlas. Su proceso de degradación hace que la resistencia de estas suturas disminuya con el tiempo.</p>

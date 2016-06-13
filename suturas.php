@@ -22,6 +22,12 @@
 
 <!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+<!--================== 	SCRIPT PARA SLIDER (INICIA)  =====================-->
+
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<!--================== 	SCRIPT PARA SLIDER (TERMINA)  =====================-->
+
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR UN DIV (INICIA)  =====================-->
 	
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -54,7 +60,45 @@
 		</div>
 	</div>
 
-	<div class="contenedor-sutura">
+
+	<div id="contenedor-slider3">
+		<div id="slider3">
+			<section>
+				<img src="img/contacto.jpg" alt="">
+				<!-- <div class="texto-slider">
+					<h2>TEXTO slider1</h2>
+					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a>
+				</div> -->
+			</section>
+			<section>
+				<img src="img/noticias.jpg" alt="">
+				<!-- <div class="texto-slider">
+					<h2>TEXTO slider2</h2>
+					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a>
+				</div> -->
+			</section>
+			<section>
+				<img src="img/nosotros.jpg" alt="">
+				<!-- <div class="texto-slider">
+					<h2>TEXTO slider3</h2>
+					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a>
+				</div> -->
+			</section>
+		</div>
+		<div id="btn-avanzar3">
+			<img src="img/flecha-derecha.png">
+		</div>
+		<div id="btn-retroceder3">
+			<img src="img/flecha-izquierda.png">
+		</div>
+		<script src="js/slider3.js"></script>
+	</div>
+
+
+	<!-- <div class="contenedor-sutura">
 		<div class="img-sutura">
 			<img src="img/producto-sutures.jpg">
 		</div>
@@ -69,37 +113,15 @@
 		</div>
 
 		<div class="clear"></div>
-	</div>
+	</div> -->
 
-	<div class="contenedor-nuevos">
-		<h3>NUEVOS PRODUCTOS</h3>
+	<?php
+		include 'productos-suturas-absorbibles.php';
+	?>
 
-		<div class="nuevos-productos">
-			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
-		</div>
-
-		<div class="nuevos-productos">
-			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
-		</div>
-
-		<div class="nuevos-productos">
-			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
-		</div>
-
-		<div class="nuevos-productos">
-			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
-		</div>
-
-		<div class="clear"></div>
-	</div>
+	<?php
+		include 'productos-suturas-no-absorbibles.php';
+	?>
 
 	<?php
 		include 'contacto-desplegable.php';
