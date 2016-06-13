@@ -6,26 +6,26 @@
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Antibacterial Polyglycolic Acid</h4>
+			<p>Suture fast absorption</p></a>
 		</div>
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Chromic Catgut</h4>
+			<p>Absorbable suture</p></a>
 		</div>
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Polyglycolic Acid</h4>
+			<p>Absorbable suture (polyglactyn 910)</p></a>
 		</div>
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Catgut Plain</h4>
+			<p>Absorbable suture</p></a>
 		</div>
 
 		<div class="clear"></div>

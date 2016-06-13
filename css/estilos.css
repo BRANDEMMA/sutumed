@@ -934,6 +934,7 @@ header{
 }
 .nuevos-productos p{
 	margin-top: 0;
+	text-align: center;
 }
 /*--==================== ESTILOS DE LA SECCION SUTURAS (TERMINA)========================--*/
 
@@ -946,29 +947,68 @@ header{
 
 /*--==================== ESTILOS DE LA SECCION PRODUCTO (INICIA)========================--*/
 .contenedor-producto{
-    padding: 3% 2%;
-	width: 96%;
+    padding: 3% 5%;
+	width: 90%;
 }
 .img-producto{
 	float: left;
-	width: 48%;
+	width: 45%;
 }
 .img-producto img{
-	width: 100%;
+	padding-top: 10%;
+	width: 90%;
 }
 .caracteristicas-producto{
 	color: #2B325C;
 	float: left;
 	font-family: "Titillium-Regular";
-	padding: 9% 2%;
-	width: 47%;
+	padding: 0 0 5% 0;
+	width: 55%;
 }
 .caracteristicas-producto h3{
+	font-size: 1.8em;
 	font-weight: lighter;
+	margin-bottom: 5%;
 	margin-top: 0;
 }
+.caracteristicas-producto h4{
+	line-height: 2;
+	margin: 0;
+}
+.linea1{
+	background-color: #2B325C;
+	height: 2px;
+	width: 52px;
+}
+.linea2{
+	background-color: #2B325C;
+	height: 2px;
+	width: 100px;
+}
+.linea3{
+	background-color: #2B325C;
+	height: 2px;
+	width: 170px;
+}
+.linea4{
+	background-color: #2B325C;
+	height: 2px;
+	width: 180px;
+}
 .caracteristicas-producto p{
+	margin-bottom: 15%;
 	text-align: justify;
+}
+.izq-producto{
+	float: left;
+	margin-right: 8%;
+	width: 42%;
+}
+.der-producto{
+	border-left: 2px solid #2B325C;
+	float: left;
+	padding-left: 8%;
+	width: 41%;
 }
 /*--==================== ESTILOS DE LA SECCION PRODUCTO (TERMINA)========================--*/
 

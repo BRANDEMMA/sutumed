@@ -6,27 +6,27 @@
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Black Braided Silk</h4>
+			<p>Non absorbable silk suture</p></a>
 		</div>
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Nylon</h4>
+			<p>Non absorbable nylon suture</p></a>
 		</div>
 
 		<div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
-			<p>Santiago de chile - CHILE</p></a>
+			<a href=""><h4>Polypropylene</h4>
+			<p>Non absorbable polypropylene suture</p></a>
 		</div>
 
-		<div class="nuevos-productos">
+		<!-- <div class="nuevos-productos">
 			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Expodent abril</h4>
+			<a href=""><h4>Catgut Plain</h4>
 			<p>Santiago de chile - CHILE</p></a>
-		</div>
+		</div> -->
 
 		<div class="clear"></div>
 
