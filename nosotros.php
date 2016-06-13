@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 
@@ -56,21 +56,20 @@
 
 	<div class="contenido-nosotros">
 		<h3>SUTUMED</h3>
-		<p class="subtitulo">Santiago de chile - CHILE</p>
+		<p class="subtitulo">USA</p>
 
 		<p>
 		<img class="img-nosotros1" src="img/nosotros2.jpg">
-		En Vital Sutures somos especialistas en la producción y comercialización de Dispositivos Médicos. Venimos ofreciendo desde hace 10 años nuestra línea de suturas quirúrgicas cumpliendo con los más altos estándares de calidad, satisfaciendo los requerimientos del profesional médico y contribuyendo al éxito de todo tipo de procedimientos quirúrgicos. Actualmente Vital Sutures tiene presencia en 27 países del Mundo, en todos los continentes, gracias al cumplimiento de nuestro compromiso de garantizar la excelencia en la calidad de nuestros productos. Como pilar de esta premisa contamos con las certificaciones internacionales CE 1023, de la Comunidad Europea, y FDA, de los Estados Unidos. Nuestras suturas favorecen a una mejor cicatrización de las heridas al unir los bordes o extremos de la misma, reduciendo la tensión de la herida, el tiempo de cicatrización y el riesgo de infección. En resumen, podemos destacar los siguientes beneficios para los usuarios de Vital Sutures:<br><br>
+		We have been offering for more than 50 years our line of surgical sutures meeting the highest quality standards (FDA 510k, CE) that contribute to the successful development of surgery. <br>Sutumed has presence in over 33 countries worldwide and its main market in Latin America. However our concern for quality improvement in surgery has led us to have high quality standards, the proof is in our international certifications such as ISO 9001, ISO 13486, FDA 510k and CE. As our concern for innovation in high-quality materials such as needles and threads 302 series of European origin high quality surgical steel.<br><br>
+	
 		<img class="img-nosotros2" src="img/nosotros3.jpg">
-		Corte suave y menor reacción tisular a través de los tejidos gracias a nuestro proceso “U-Filo”, que proporciona agujas siliconadas que mantienen el filo y con un máximo nivel de concordancia en el engaste.<br>
-		Elevado nivel fuerza de tensil en todas nuestras suturas, ya que son sometidas a rigurosos controles de calidad a través de nuestro proceso “One by One”.<br>
-		La seguridad de estar utilizando productos avalados con Certificaciones Internacionales de los más exigentes mercados del Mundo.<br>
-		Nuestra cartera de productos se ve complementada por nuestras mallas de polipropileno para tratamiento de hernias y urología, entre otras posibles aplicaciones. Tanto las mallas como las suturas se encuentran disponibles en una amplia variedad de medidas y combinaciones.
-		<div class="clear"></div>
+
+		What adding to our treatment technology needles U-Filo providing our steel edge necessary for a smooth atraumatic passage through tissues and our process quality control "One by one" by which our sutures are subjected individually to rigorous quality tests.
+		
 		</p>
 
 	</div>
-
+<div class="clear"></div>
 	<?php
 		include 'contacto-desplegable.php';
 	?>
