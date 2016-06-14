@@ -17,8 +17,8 @@
 		</div>
 
 		<div class="nuevos-productos">
-			<a href=""><img src="img/producto-sutures.jpg"></a>
-			<a href=""><h4>Polypropylene</h4>
+			<a href="polypropylene.php"><img src="img/producto-sutures.jpg"></a>
+			<a href="polypropylene.php"><h4>Polypropylene</h4>
 			<p>Non absorbable polypropylene suture</p></a>
 		</div>
 
