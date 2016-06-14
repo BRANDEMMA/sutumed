@@ -89,26 +89,26 @@
 	</div>
 
 	<div class="contenedor-caracteristicas">
-		<h2><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Características de Nuestras Suturas &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h2>
+		<h2><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Features of our Sutures &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h2>
 		<div class="caracteristicas margen">
 			<img class="img1" src="img/resistencia.gif">
-			<h4>MAYOR RESISTENCIA A LA TRACCION</h4>
-			<p>Mayor resitencia de la sutura en la union hilo aguja (Aumentamos 30% la exigencia de las pruebas segun USP).</p>
+			<h4>GREATER TENSILE STRENGTH</h4>
+			<p>Greater resistance of the suture in the needle – thread union (we increased the demand for testing according to USP by 30%).</p>
 		</div>
 		<div class="caracteristicas margen">
 			<img class="img2" src="img/agujas.gif">
-			<h4>AGUJAS SILICONIZADAS</h4>
-			<p>Suturas con agujas siliconizadas con menor resistencia a la traccion.</p>
+			<h4>SILICONIZED NEEDLES</h4>
+			<p>Sutures with siliconized needles, with lower resistance to traction.</p>
 		</div>
 		<div class="caracteristicas margen">
 			<img class="img3" src="img/u-filo.gif">
-			<h4>TECNOLOGIA U-FILOvv</h4>
-			<p>Proporciona un comportamiento adecuado provocando una reaccion minima del tejido.</p>
+			<h4>U-FILO TECHNOLOGY</h4>
+			<p>Provides appropriate behavior causing minimal tissue reaction.</p>
 		</div>
 		<div class="caracteristicas">
 			<img class="img4" src="img/calidad.gif">
-			<h4>CONTROL DE CALIDAD ONE BY ONE</h4>
-			<p>Todas nuestras suturas son probadas, una a una, a fin de garantizar la excelencia de su calidad.</p>
+			<h4>ONE BY ONE QUALITY CONTROL</h4>
+			<p>All our sutures are tested, one by one, in order to guarantee its quality.</p>
 		</div>
 
 		<div class="clear"></div>
