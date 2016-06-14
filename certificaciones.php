@@ -66,10 +66,9 @@
 
 			We attached the cretificaciones of our products<br><br>
 
-			- FDA &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br>
-			- BPM &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br>
-			- CE &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br>
-
+			- FDA &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
+			- BPM &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
+			- CE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 			</p>
 		</div>
 

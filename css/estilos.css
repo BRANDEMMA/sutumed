@@ -700,6 +700,10 @@ header{
 .textos p{
 	font-family: "Titillium-Regular";
 }
+.textos a{
+	color: white;
+	text-decoration: none;
+}
 .espaciado{
 	margin-right: 10%;
 }
