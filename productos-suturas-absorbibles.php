@@ -1,13 +1,13 @@
 <?php	
 ?>
 	<div class="contenedor-nuevos margen-superior">
-		<h3>SUTURAS ABSORBIBLES</h3>
+		<h3>SUTURES ABSORBABLES</h3>
 		<p>Sutures are used in different procedures. The most used are the tissue approximation and ligation of blood vessels temporarily. These procedures and the characteristics of each features make the properties and characteristics of each strand may vary to suit the intervention. That is why the sutures may be degraded or hydrolyzed (as synthetic sutures).</p>
 
 		<div class="nuevos-productos">
-			<a href="antibacterial-polyglycolic-acid.php"><img src="img/producto-sutures.jpg"></a>
-			<a href="antibacterial-polyglycolic-acid.php"><h4>Antibacterial Polyglycolic Acid</h4>
-			<p>Suture fast absorption</p></a>
+			<a href="catgut-plain.php"><img src="img/producto-sutures.jpg"></a>
+			<a href="catgut-plain.php"><h4>Catgut Plain</h4>
+			<p>Absorbable suture</p></a>
 		</div>
 
 		<div class="nuevos-productos">
@@ -23,9 +23,9 @@
 		</div>
 
 		<div class="nuevos-productos">
-			<a href="catgut-plain.php"><img src="img/producto-sutures.jpg"></a>
-			<a href="catgut-plain.php"><h4>Catgut Plain</h4>
-			<p>Absorbable suture</p></a>
+			<a href="antibacterial-polyglycolic-acid.php"><img src="img/producto-sutures.jpg"></a>
+			<a href="antibacterial-polyglycolic-acid.php"><h4>Antibacterial Polyglycolic Acid</h4>
+			<p>Suture fast absorption</p></a>
 		</div>
 
 		<div class="nuevos-productos">

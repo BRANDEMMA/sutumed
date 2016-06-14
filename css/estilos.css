@@ -155,7 +155,7 @@ header{
 
 #slider{
 	display: flex;
-	width: 300%;
+	width: 400%;
 }
 
 #slider section{
@@ -178,7 +178,7 @@ header{
 }
 .texto-slider h2{
 	font-family: "Titillium-Semibold";
-	font-size: 4em;
+	font-size: 3em;
 	margin: 0;
 }
 .texto-slider p{
@@ -222,86 +222,6 @@ header{
 
 
 
-
-
-
-
-
-/*--==================== ESTILOS SLIDER 2 (INICIA)========================--*/
-#contenedor-slider3{
-	margin: 0 auto;
-	margin-top: -5px;
-	position: relative;
-	overflow: hidden;
-	width: 80%;
-}
-
-#slider3{
-	display: flex;
-	width: 300%;
-}
-
-#slider3 section{
-	position: relative;
-	width: 100%;
-}
-
-#slider3 img{
-	display: block;
-	height: 100%;
-	width: 100%;
-}
-#slider .texto-slider{
-	color: white;
-	left: 12%;
-	position: absolute;
-	text-align: center;
-	top: 30%;
-	width: 400px;
-}
-.texto-slider h2{
-	font-family: "Titillium-Semibold";
-	font-size: 4em;
-	margin: 0;
-}
-.texto-slider p{
-	font-family: "Titillium-Regular";
-	margin: 0 auto;
-	margin-bottom: 30px;
-	width: 85%;
-}
-.texto-slider a{
-	background-color: #2B325C;
-	border-radius: 5px;
-	color: white;
-	font-family: "Titillium-Regular";
-	font-size: 1.5em;
-	padding: 0 50px;
-	padding-bottom: 2px;
-	text-decoration: none;
-}
-
-#btn-avanzar3, #btn-retroceder3{
-	cursor: pointer;
-	height: 40px;
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
-	width: 40px;
-}
-
-#btn-avanzar3 img, #btn-retroceder3 img{
-	width: 80%;
-}
-
-#btn-avanzar3{
-	right: 10px;
-}
-
-#btn-retroceder3{
-	left: 10px;
-}
-/*--==================== ESTILOS SLIDER 2 (TERMINA)========================--*/
 
 
 
@@ -374,10 +294,10 @@ header{
 	color: white;
 	float: left;
 	font-family: "Titillium-Regular";
-	margin: 0 5% 3% 5%;
+	margin: 0 2% 3% 2%;
 	text-align: center;
 	text-decoration: none;
-	width: 15%;
+	width: 21%;
 }
 .mas-vendidas{
 	width: 100%;
@@ -694,8 +614,8 @@ header{
 }
 .textos h4{
 	font-family: "Titillium-Semibold";
+	font-size: 1.2em;
 	font-weight: lighter;
-	text-decoration: underline;
 }
 .textos p{
 	font-family: "Titillium-Regular";
@@ -721,6 +641,7 @@ header{
 	width: 100%;
 }
 .contenedor-titulo-secciones img{
+	height: 300px;
 	width: 100%;
 }
 .titulo-secciones{

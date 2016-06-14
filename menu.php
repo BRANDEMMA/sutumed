@@ -14,7 +14,7 @@
 			<div class="clear"></div>
 
 			<div class="menu-principal">
-				<a href=""><img src="img/logo-sutumed.png"></a>
+				<a href="index.php"><img src="img/logo-sutumed.png"></a>
 				<nav>
 					<ul>
 						<li><a href="index.php">Home</a></li>

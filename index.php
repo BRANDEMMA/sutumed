@@ -57,25 +57,33 @@
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
-					<h2>TEXTO slider1</h2>
-					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a>
+					<h2>GREATER TENSILE STRENGTH</h2>
+					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a> -->
 				</div>
 			</section>
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
-					<h2>TEXTO slider2</h2>
-					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a>
+					<h2>SILICONIZED NEEDLES</h2>
+					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a> -->
 				</div>
 			</section>
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
-					<h2>TEXTO slider3</h2>
-					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a>
+					<h2>U-FILO TECHNOLOGY</h2>
+					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a> -->
+				</div>
+			</section>
+			<section>
+				<img src="img/slider1.jpg" alt="">
+				<div class="texto-slider">
+					<h2>ONE BY ONE QUALITY CONTROL</h2>
+					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
+					<a href="">Botón</a> -->
 				</div>
 			</section>
 		</div>
@@ -88,7 +96,7 @@
 		<script src="js/slider.js"></script>
 	</div>
 
-	<div class="contenedor-caracteristicas">
+	<!-- <div class="contenedor-caracteristicas">
 		<h2><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Features of our Sutures &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h2>
 		<div class="caracteristicas margen">
 			<img class="img1" src="img/resistencia.gif">
@@ -112,7 +120,7 @@
 		</div>
 
 		<div class="clear"></div>
-	</div>
+	</div> -->
 
 
 	<div class="contenedor-azul2">

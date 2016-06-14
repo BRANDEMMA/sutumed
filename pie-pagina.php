@@ -9,10 +9,10 @@
 
 	<div class="textos espaciado">
 		<h4>Absorbable Sutures</h4>
-		<p><a href="antibacterial-polyglycolic-acid.php">Antibacterial Polyglycolic Acid</a><br>
+		<p><a href="catgut-plain.php">Catgut Plain</a><br>
 		<a href="chromic-catgut.php">Chromic Catgut</a><br>
 		<a href="polyglycolic-acid.php">Polyglycolic Acid</a><br>
-		<a href="catgut-plain.php">Catgut Plain</a><br>
+		<a href="antibacterial-polyglycolic-acid.php">Antibacterial Polyglycolic Acid</a><br>	
 		<a href="polydioxanone.php">Polydioxanone</a><br>
 		<a href="polyglecaprone.php">Polyglecaprone</a></p>
 	</div>
