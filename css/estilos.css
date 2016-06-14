@@ -26,6 +26,23 @@ body{
 
 
 
+/*--==================== ESTILOS ERNY EGOAVIL (INICIA)========================--*/
+
+
+
+#slider .logos-white{
+
+	width: 280px;
+	height: auto;
+	margin-bottom: 40px;
+	margin:0 auto 20px auto;
+}
+
+/*--==================== ESTILOS ERNY EGOAVIL (TERMINA)========================--*/
+
+
+
+
 /*--==================== ESTILOS CABECERA (INICIA)========================--*/
 header{
 	font-family: "Titillium-Semibold";

@@ -73,8 +73,8 @@
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
-					<h2>U-FILO TECHNOLOGY</h2>
-					<p>Provides appropriate behavior causing minimal tissue reaction.</p>
+					<img class="logos-white" src="img/ufilo-white.png">
+					<p>U-FILO TECHNOLOGY - Provides appropriate behavior causing minimal tissue reaction.</p>
 					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
