@@ -624,6 +624,9 @@ header{
 	color: white;
 	text-decoration: none;
 }
+.textos a:hover{
+	color: #f59b19;
+}
 .espaciado{
 	margin-right: 10%;
 }

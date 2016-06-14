@@ -58,32 +58,32 @@
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
 					<h2>GREATER TENSILE STRENGTH</h2>
-					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a> -->
+					<p>Greater resistance of the suture in the needle – thread union (we increased the demand for testing according to USP by 30%).</p>
+					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
 					<h2>SILICONIZED NEEDLES</h2>
-					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a> -->
+					<p>Sutures with siliconized needles, with lower resistance to traction.</p>
+					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
 					<h2>U-FILO TECHNOLOGY</h2>
-					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a> -->
+					<p>Provides appropriate behavior causing minimal tissue reaction.</p>
+					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
 					<h2>ONE BY ONE QUALITY CONTROL</h2>
-					<!-- <p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
-					<a href="">Botón</a> -->
+					<p>All our sutures are tested, one by one, in order to guarantee its quality.</p>
+					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
 		</div>
@@ -126,37 +126,37 @@
 	<div class="contenedor-azul2">
 		<h2>OUR SUTURES</h2>
 		<div class="contenido-mas-vendidas">
-			<a href=""><div class="mas-vendidas">
+			<a href="polyglycolic-acid.php"><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
 				<h3>Polyglycolic acid (PGA)</h3>
 				<p>Polyglycolic acid (PGA) is a synthetic suture, ABSORBABLE, Sterile, Multifilament, which meets all requirements established by the USP. Equivalent with Vicryl, Safil, Polysorb, Dexon in surgical material.</p>
 			</div></a>
 
-			<a href=""><div class="mas-vendidas">
+			<a href="polydioxanone.php"><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
 				<h3>Polydioxanone</h3>
 				<p>Polydioxanone suture is a synthetic, ABSORBABLE, monofilament that meets the requirements of the USP, except the diameter that is governed by the parameters of the British Pharmacopoeia. Its component is the Polydioxanone Polymer. Equivalent with PDSII, Mono-Plus in surgical material.</p>
 			</div></a>
 
-			<a href=""><div class="mas-vendidas">
+			<a href="polyglecaprone.php"><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
 				<h3>Polyglecaprone</h3>
 				<p>Polyglecaprone is a synthetic suture, ABSORBABLE, sterile, monofilament made of polymer e-Caprolactone and polymer Glycolide (PGCL), meets the requirements of the USP except the diameter which is ruled by the British Pharmacopoeia. Equivalent with Monocryl in surgical material.</p>
 			</div></a>
 
-			<a href=""><div class="mas-vendidas">
+			<a href="polypropylene.php"><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
 				<h3>Polypropylene</h3>
 				<p>The Polypropylene, Non-ABSORBABLE suture, monofilament, whose main component is the isobathic crystalline stereoisomer of polypropylene, a synthetic linear polyolefin. Equivalent with Prolene, Premilene, Surgipro in surgical material.</p>
 			</div></a>
 
-			<a href=""><div class="mas-vendidas">
+			<a href="nylon.php"><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
 				<h3>POLYESTER</h3>
 				<p>Polyester Non-ABSORBABLE suture of synthetic origin, braided multifilament and Teflon pad multifilament, which meets the USP requirements.Equivalent with Ethbon, Drografil, Ti-Cron, Surgidac in surgical material.</p>
 			</div></a>
 
-			<a href=""><div class="mas-vendidas">
+			<a href="black-braided-silk.php"><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
 				<h3>SILK</h3>
 				<p>Black Braided Silk is a suture of natural origin, multifilament that meets the USP requirements. It is composed of an organic protein called fibroin. Equivalent with Mersilk, Silkam, Sofsilk in surgical material.</p>
