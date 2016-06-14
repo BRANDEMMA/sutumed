@@ -2,7 +2,7 @@
 ?>
 	<div class="contenedor-nuevos">
 		<h3>SUTURAS NO ABSORBIBLES</h3>
-		<p>Estas suturas, al no ser reabsorbidas por el cuerpo, necesitan de un segundo procedimiento para su extracción, o se mantienen permanentemente en él. Presentan un menor riesgo de infección y tendencia a formar cicatrices queloides. Al igual que las suturas absorbibles, pueden ser de filamento único (monofilamento) o multifilamento torcido o trenzado, y pueden ser de origen natural ó sintético.</p>
+		<p>These type of sutures cannot be reabsorbed by the body, therefore need a second procedure to be removed or can be remained permanently on it.   They have a lower risk for infection and tend to form keloid scars. As the absorbable sutures, these can be of single filament (monofilament) or twisted or braided multifilament, and they can be of natural or synthetic origin.</p>
 
 		<div class="nuevos-productos">
 			<a href="black-braided-silk.php"><img src="img/producto-sutures.jpg"></a>
