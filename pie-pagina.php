@@ -9,19 +9,19 @@
 
 	<div class="textos espaciado">
 		<h4>Absorbable Sutures</h4>
-		<p><a href="">Antibacterial Polyglycolic Acid</a><br>
-		<a href="">Chromic Catgut</a><br>
-		<a href="">Polyglycolic Acid</a><br>
-		<a href="">Catgut Plain</a><br>
-		<a href="">Polydioxanone</a><br>
-		<a href="">Polyglecaprone</a></p>
+		<p><a href="antibacterial-polyglycolic-acid.php">Antibacterial Polyglycolic Acid</a><br>
+		<a href="chromic-catgut.php">Chromic Catgut</a><br>
+		<a href="polyglycolic-acid.php">Polyglycolic Acid</a><br>
+		<a href="catgut-plain.php">Catgut Plain</a><br>
+		<a href="polydioxanone.php">Polydioxanone</a><br>
+		<a href="polyglecaprone.php">Polyglecaprone</a></p>
 	</div>
 
 	<div class="textos espaciado">
 		<h4>Non Absorbable Sutures</h4>
-		<p><a href="">Black Braided Silk</a><br>
-		<a href="">Nylon</a><br>
-		<a href="">Polypropylene</a><br>
+		<p><a href="black-braided-silk.php">Black Braided Silk</a><br>
+		<a href="nylon.php">Nylon</a><br>
+		<a href="polypropylene.php">Polypropylene</a><br>
 	</div>
 
 	<div class="textos">
