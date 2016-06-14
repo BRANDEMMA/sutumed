@@ -116,7 +116,7 @@
 
 
 	<div class="contenedor-azul2">
-		<h2>ABSORBABLE SUTURE</h2>
+		<h2>OUR SUTURE</h2>
 		<div class="contenido-mas-vendidas">
 			<a href=""><div class="mas-vendidas">
 				<img src="img/producto-sutures.jpg">
