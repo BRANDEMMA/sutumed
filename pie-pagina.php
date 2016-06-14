@@ -28,10 +28,9 @@
 		<h4>Contact</h4>
 		<p>Dirección de la emrpesa<br>
 		Usa<br>
-
-	<a href="">	USA + 1 (239) 888 7805</a><br>
-<a href="">USA +1 (239) 785 9814</a><br>
-<a href="">info@sutumed.us</a><br></p>
+		<a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a><br>
+		<a href="tel: +12397859814" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 785 9814</a><br>
+		<a href="mailto:info@sutumed.us">info@sutumed.us</a><br></p>
 	</div>
 
 	<div class="clear"></div>
