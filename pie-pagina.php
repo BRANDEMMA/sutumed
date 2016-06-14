@@ -4,7 +4,7 @@
 <div class="contenedor-azul">
 	<div class="logo-texto">
 		<img src="img/logo-sutumed-blanco.png">
-		<p>We have been offering for more than 50 years our line of surgical sutures meeting the highest quality standards (FDA 510k, CE) that contribute to the successful development of surgery.</p>	
+		<p>Sutumed is a manufacturing company quirugicas Florida-based sutures and manufacturing plants in Ecuador and Brazil to meet demand for its products to over 30 countries globally. We are recognized worldwide for the high quality of our products made with the technology according to user requirements and patient care and compliance with health institutions that give us CE, FDA cleared and ISO 9001 .</p>	
 	</div>
 
 	<div class="textos espaciado">
