@@ -20,7 +20,7 @@
 						<li><a href="index.php">Inicio</a></li>
 						<li><a href="nosotros.php">Nosotros</a></li>
 						<li><a href="suturas.php">Suturas</a></li>
-						<li><a href="expodent.php">Certificaciones</a></li>
+						<li><a href="certificaciones.php">Certificaciones</a></li>
 						<li><a href="noticias.php">Noticias</a></li>
 						<li><a href="contacto.php">Contacto</a></li>
 					</ul>

@@ -72,7 +72,7 @@
 		<div class="clear"></div>
 	</div>
 
-	<div class="noticias-gris">
+	<!-- <div class="noticias-gris">
 		<div class="img-noticia">
 			<img src="img/articulos-noticias.jpg">
 		</div>
@@ -92,7 +92,7 @@
 		</div>
 
 		<div class="clear"></div>
-	</div>
+	</div> -->
 
 	<?php
 		include 'contacto-desplegable.php';
