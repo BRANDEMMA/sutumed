@@ -319,10 +319,16 @@ header{
 .mas-vendidas{
 	width: 100%;
 }
+.fondo-gris{
+	background-color: #EAEAEA;
+	border-radius: 50%;
+	margin: 0 auto;
+	width: 80%;
+}
 .mas-vendidas img{
 	border-radius: 50%;
 	height: 100%;
-	width: 80%;
+	width: 100%;
 }
 .mas-vendidas h3{
 	font-size: 1em;
