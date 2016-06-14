@@ -59,24 +59,25 @@
 			<img src="img/articulos-noticias.jpg">
 		</div>
 		<div class="texto-noticia">
-			<h3>Expodent mayo</h3>
-			<p class="subtitulo">Santiago de chile - CHILE</p>
+			<h3>News</h3>
+			<!-- <p class="subtitulo">Santiago de chile - CHILE</p> -->
 
-			<p>Vital Sutures, empresa líder en el mercado de suturas quirúrgicas y dispositivos médicos desde hace 55 años, tiene el agrado de informarles sobre su participación en la reconocida feria EXPODENT 2016. El evento se llevó a cabo del 13 al 14 de mayo en Santiago de Chile, y contará con la participación de reconocidas empresas del rubro dental.</p>
+			<p>We are pleased to announce that our brand SUTUMED FIME will be present at the fair, the largest medical exhibition of medical equipment and supplies in North America, Central America and South America.<br><br>
+			You can find us at booth D.C41.</p>
 
-			<p class="detalles">
+			<!-- <p class="detalles">
 				<i class="fa fa-check negro" aria-hidden="true"></i>&nbsp;&nbsp; 30 March 2016<br><br>
 				<i class="fa fa-star negro" aria-hidden="true"></i>&nbsp;&nbsp; 8;00 A 6;00<br><br>
 				<i class="fa fa-check negro" aria-hidden="true"></i>&nbsp;&nbsp; Vacantes Limitadas
 			</p>
 
-			<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Loremp ipsum</a>
+			<a class="btn-noticias" href=""><span><i class="fa fa-thumb-tack" aria-hidden="true"></i></span> Loremp ipsum</a> -->
 		</div>
 
 		<div class="clear"></div>
 	</div>
 
-	<div class="noticias-gris">
+	<!-- <div class="noticias-gris">
 		<div class="img-noticia">
 			<img src="img/articulos-noticias.jpg">
 		</div>
@@ -96,7 +97,7 @@
 		</div>
 
 		<div class="clear"></div>
-	</div>
+	</div> -->
 
 	<?php
 		include 'contacto-desplegable.php';
