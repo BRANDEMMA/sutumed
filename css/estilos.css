@@ -877,7 +877,13 @@ header{
 	margin: 0 1%;
 	width: 25%;
 }
+.margen-superior{
+	margin-top: -5px;
+}
 .contenedor-nuevos{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 	margin-bottom: 1%;
 	width: 100%;
 }

@@ -61,31 +61,31 @@
 	</div>
 
 
-	<div id="contenedor-slider3">
+	<!-- <div id="contenedor-slider3">
 		<div id="slider3">
 			<section>
 				<img src="img/contacto.jpg" alt="">
-				<!-- <div class="texto-slider">
+				<div class="texto-slider">
 					<h2>TEXTO slider1</h2>
 					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
 					<a href="">Botón</a>
-				</div> -->
+				</div>
 			</section>
 			<section>
 				<img src="img/noticias.jpg" alt="">
-				<!-- <div class="texto-slider">
+				<div class="texto-slider">
 					<h2>TEXTO slider2</h2>
 					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
 					<a href="">Botón</a>
-				</div> -->
+				</div>
 			</section>
 			<section>
 				<img src="img/nosotros.jpg" alt="">
-				<!-- <div class="texto-slider">
+				<div class="texto-slider">
 					<h2>TEXTO slider3</h2>
 					<p>Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto descriptivo opcional Texto </p>
 					<a href="">Botón</a>
-				</div> -->
+				</div>
 			</section>
 		</div>
 		<div id="btn-avanzar3">
@@ -95,7 +95,7 @@
 			<img src="img/flecha-izquierda.png">
 		</div>
 		<script src="js/slider3.js"></script>
-	</div>
+	</div> -->
 
 
 	<!-- <div class="contenedor-sutura">

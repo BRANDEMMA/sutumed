@@ -60,9 +60,9 @@
 
 		<p>
 		<img class="img-nosotros1" src="img/nosotros2.jpg">
-		We have been offering for more than 50 years our line of surgical sutures meeting the highest quality standards (FDA 510k, CE) that contribute to the successful development of surgery. <br>Sutumed has presence in over 33 countries worldwide and its main market in Latin America. However our concern for quality improvement in surgery has led us to have high quality standards, the proof is in our international certifications such as ISO 9001, ISO 13486, FDA 510k and CE. As our concern for innovation in high-quality materials such as needles and threads 302 series of European origin high quality surgical steel.<br><br>
+		We have been offering for more than 50 years our line of surgical sutures meeting the highest quality standards (FDA 510k, CE) that contribute to the successful development of surgery. <br>Sutumed has presence in over 33 countries worldwide and its main market in Latin America. However our concern for quality improvement in surgery has led us to have high quality standards, the proof is in our international certifications such as ISO 9001, ISO 13486, FDA 510k and CE. As our concern for innovation in high-quality materials such as needles and threads 302 series of European origin high quality surgical steel.
 	
-		<img class="img-nosotros2" src="img/nosotros3.jpg">
+		<!-- <img class="img-nosotros2" src="img/nosotros3.jpg"> -->
 
 		What adding to our treatment technology needles U-Filo providing our steel edge necessary for a smooth atraumatic passage through tissues and our process quality control "One by one" by which our sutures are subjected individually to rigorous quality tests.
 		

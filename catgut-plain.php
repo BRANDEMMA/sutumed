@@ -59,21 +59,20 @@
 			<img src="img/producto-sutures.jpg">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Antibacterial Polyglycolic Acid &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Catgut Plain &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
-				<p>&#8226; Suture fast absorption.<br>
-				&#8226; Generally known under the trade name Vicryl Plus.<br>
-				&#8226; Stranded strand.<br>
-				&#8226; Glycolide and lactic polymer coated polyglactin 370 , calcium stearate and tryclosan.<br>
-				&#8226; It is absorbed by hydrolysis 40 days.
+				<p>&#8226; Absorbable suture.<br>
+				&#8226; Monofilament thread.<br>
+				&#8226; Collagen from sheep and cattle.<br>
+				&#8226; It is absorbed in 70 days by proteolytic digestive enzyme process. Depending on the state of biological defenses of the patient.
 				</p>
 
 				<h4>Other features<br><div class="linea2"></div></h4>
-				<p>&#8226; Color: violet.<br>
-				&#8226; Thread size: from 5/0 to 2 USP.<br>
-				&#8226; Sterilized by Ethylene Oxide.<br>
+				<p>&#8226; Simple Catgut thread in bright yellow – beige..<br>
+				&#8226; Thread size: from 3/0 to 0 USP.<br>
+				&#8226; Sterile product.<br>
 				&#8226; Boxes with 12 or 36 units.
 				</p>
 			</div>
@@ -84,16 +83,13 @@
 				&#8226; Peel open.<br>
 				&#8226; Siliconized needles allowing a minimum tissue trauma.<br>
 				&#8226; High tensile strength.<br>
-				&#8226; Uniform strand preventing tissue drag.<br>
-				&#8226; Softness, flexibility and elasticity that facilitates the use and concretion knots.
+				&#8226; uniform strand preventing tissue drag, With preservative liquid that favors the conservation of the suture.<br>
+				&#8226; softness, flexibility and elasticity that facilitates the use and concretion knots.
 				</p>
 
 				<h4>Recommended procedures<br><div class="linea4"></div></h4>
-				<p>Suture tissue of skin and mucous membranes in the short term:<br><br>
-				&#8226; Skin.<br>
-				&#8226; Phimosis.<br>
-				&#8226; Ligatures.<br>
-				&#8226; Others surgeon consideration.
+				<p>&#8226; Suture tissue of skin and mucous membranes.<br>
+				&#8226; General surgery.
 				</p>
 			</div>
 
@@ -103,7 +99,16 @@
 		<div class="clear"></div>
 	</div>
 
-	<div class="contenedor-nuevos">
+
+	<?php
+		include 'productos-suturas-absorbibles.php';
+	?>
+
+	<?php
+		include 'productos-suturas-no-absorbibles.php';
+	?>
+
+	<!-- <div class="contenedor-nuevos">
 		<h3>NUEVOS PRODUCTOS</h3>
 
 		<div class="nuevos-productos">
@@ -154,7 +159,7 @@
 		</div>
 
 		<div class="clear"></div>
-	</div>
+	</div> -->
 
 	<?php
 		include 'contacto-desplegable.php';
