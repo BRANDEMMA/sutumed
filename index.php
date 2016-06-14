@@ -127,37 +127,37 @@
 		<h2>OUR SUTURES</h2>
 		<div class="contenido-mas-vendidas">
 			<a href="polyglycolic-acid.php"><div class="mas-vendidas">
-				<img src="img/producto-sutures.jpg">
+				<img src="img/mk-ap.png">
 				<h3>Polyglycolic acid (PGA)</h3>
 				<p>Polyglycolic acid (PGA) is a synthetic suture, ABSORBABLE, Sterile, Multifilament, which meets all requirements established by the USP. Equivalent with Vicryl, Safil, Polysorb, Dexon in surgical material.</p>
 			</div></a>
 
 			<a href="polydioxanone.php"><div class="mas-vendidas">
-				<img src="img/producto-sutures.jpg">
+				<img src="img/mk-pd.png">
 				<h3>Polydioxanone</h3>
 				<p>Polydioxanone suture is a synthetic, ABSORBABLE, monofilament that meets the requirements of the USP, except the diameter that is governed by the parameters of the British Pharmacopoeia. Its component is the Polydioxanone Polymer. Equivalent with PDSII, Mono-Plus in surgical material.</p>
 			</div></a>
 
 			<a href="polyglecaprone.php"><div class="mas-vendidas">
-				<img src="img/producto-sutures.jpg">
+				<img src="img/mk-pg.png">
 				<h3>Polyglecaprone</h3>
 				<p>Polyglecaprone is a synthetic suture, ABSORBABLE, sterile, monofilament made of polymer e-Caprolactone and polymer Glycolide (PGCL), meets the requirements of the USP except the diameter which is ruled by the British Pharmacopoeia. Equivalent with Monocryl in surgical material.</p>
 			</div></a>
 
 			<a href="polypropylene.php"><div class="mas-vendidas">
-				<img src="img/producto-sutures.jpg">
+				<img src="img/mk-pp.png">
 				<h3>Polypropylene</h3>
 				<p>The Polypropylene, Non-ABSORBABLE suture, monofilament, whose main component is the isobathic crystalline stereoisomer of polypropylene, a synthetic linear polyolefin. Equivalent with Prolene, Premilene, Surgipro in surgical material.</p>
 			</div></a>
 
 			<a href="nylon.php"><div class="mas-vendidas">
-				<img src="img/producto-sutures.jpg">
+				<img src="img/mk-nm.png">
 				<h3>POLYESTER</h3>
 				<p>Polyester Non-ABSORBABLE suture of synthetic origin, braided multifilament and Teflon pad multifilament, which meets the USP requirements.Equivalent with Ethbon, Drografil, Ti-Cron, Surgidac in surgical material.</p>
 			</div></a>
 
 			<a href="black-braided-silk.php"><div class="mas-vendidas">
-				<img src="img/producto-sutures.jpg">
+				<img src="img/mk-st.png">
 				<h3>SILK</h3>
 				<p>Black Braided Silk is a suture of natural origin, multifilament that meets the USP requirements. It is composed of an organic protein called fibroin. Equivalent with Mersilk, Silkam, Sofsilk in surgical material.</p>
 			</div></a>

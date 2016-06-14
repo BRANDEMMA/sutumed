@@ -66,12 +66,12 @@
 
 			We attached the cretificaciones of our products<br><br>
 
-			- CE 1023 Certificado de Examinación de Diseño - ITC - feb-12-12 091 &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/itc_ec_design_examination_certificate_120191.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
-			- CE 1023 Certificado Suturas Absorbibles - ITC &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/itc_ec_certificate_120190.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
-			- CE 1023 Certificado Suturas no Absorbibles - ITC-12 0192 &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/itc_ec_certificate_120192.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a><br><br>
-			- CFG &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/certificate_foreign_government_326542016.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
-			- FDA Absorbables Sutures &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/fda_absorbables_sutures.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a><br><br>
-			- FDA Clearance Letter &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/fda_clearance_letter.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 
+			- CE 103 EC DESING – EXAMINATION CERTIFICATE &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/itc_ec_design_examination_certificate_120191.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
+			- CE 103 EC CERTIFICATE FOR ABSORBABLE SUTURE &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/itc_ec_certificate_120190.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
+			- CE 103 EC CERTIFICATE FOR NON ABSORBABLE SUTURE &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/itc_ec_certificate_120192.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a><br><br>
+			- CERTIFICATE TO FOREING GOVERMENT &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/certificate_foreign_government_326542016.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br><br>
+			- FDA ABSORBABLES SUTURES &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/fda_absorbables_sutures.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a><br><br>
+			- FDA CLEARED &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="pdf/fda_clearance_letter.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 
 			</p>
 		</div>
 
