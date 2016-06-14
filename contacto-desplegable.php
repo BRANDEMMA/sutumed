@@ -8,7 +8,10 @@
 		<div class="clear"></div>
 		<div id="formulario">
 			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/mensaje-contacto2.php">
-			<p>We are glad to be able to attend. Send us your questions and gladly requirements or one of our operators will contact you!</p>
+			<p>Thank you for contacting us. Leave your message and send you a quote. Or call us at<br>
+			<a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a><br>
+			<a href="tel: +12397859814" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 785 9814</a>
+			</p>
 				<div class="centrado verde" id="ajaxsuccess">*The Email has been sent successfully.*</div>
 
 				<label>Name</label><br>

@@ -535,6 +535,13 @@ header{
 	margin-top: 0;
 	text-align: justify;
 }
+#formulario a{
+	color: white;
+	text-decoration: none;
+}
+#formulario a:hover{
+	color: #f59b19;
+}
 #formulario label{
 	color: white;
 	font-family: "Titillium-Regular";
