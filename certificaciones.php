@@ -58,15 +58,19 @@
 		<div class="img-noticia2">
 			<img src="img/expodent.jpg">
 		</div>
-		<div class="texto-noticia">
+		<div class="texto-noticia2">
 			<h3>Sales  Certificate</h3>
 			<!-- <p class="subtitulo">Santiago de chile - CHILE</p> -->
 
-			<p>In Vital Sutures we are specialists in producing and marketing Medical Devices. Since 10 years ago, we offer our line of surgical sutures meeting the highest quality standards, and satisfying the healthcare professionals’ requirements and contributing to the success of all type of surgical procedures. Currently, Vital Sutures is present in 27 countries around the world, all the continents, thanks to complying with our commitment to guarantee the excellent quality of our products. Our cornerstones of this premise are our international certifications CE 1023, from the European Community, and FDA, from United States. Our sutures benefit to a better wound cicatrization while bringing together the borders or ends of the same, reducing the wound tension, the cicatrization time and the risk for infection. To sum up, the following benefits for our Vital Sutures clients are highlighted:<br>
-			Soft cut and less tissue reaction through the tissues thanks to our “U-Filo” process, which provides edged silicone needles and a maximum level of compliance with the crimping.<br>
-			High tensile stress level in all our sutures because they are submitted to strict quality controls through our “One by One” process.<br>
-			Guarantee to use products supported by International Certifications of the most demanding markets in the world.<br>
-			Our product portfolio is complemented by our polypropylene meshes for hernia and urology treatments, among other possible applications. Both meshes and sutures are available in a wide variety of sizes and combinations.</p>
+			<p>Our products meet the highest quality standards required globally.<br><br>
+
+			We attached the cretificaciones of our products<br><br>
+
+			- FDA &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br>
+			- BPM &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br>
+			- CE &nbsp;&nbsp;&nbsp;<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <br>
+
+			</p>
 		</div>
 
 		<div class="clear"></div>

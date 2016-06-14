@@ -1026,12 +1026,36 @@ header{
 
 /*--==================== ESTILOS DE LA SECCION EXPODENT (INICIA)========================--*/
 .img-noticia2{
+	border-right: 2px solid #707070;
 	float: left;
-	padding-top: 2%;
+	padding: 2% 0;
 	width: 30%;
 }
 .img-noticia2 img{
 	width: 95%;
+}
+.texto-noticia2{
+	color: #707070;
+	float: left;
+	font-family: "Titillium-Regular";
+	padding: 3% 0 3% 3%;
+	width: 66.5%;
+}
+.texto-noticia2 h3{
+	font-size: 1.5em;
+    font-weight: lighter;
+    margin: 0;
+}
+.texto-noticia2 .subtitulo{
+	margin-top: 0;
+}
+.texto-noticia2 .detalles{
+	margin-bottom: 3%;
+	padding-left: 2%;
+}
+.texto-noticia2 a{
+	color: #707070;
+	text-decoration: none;
 }
 /*--==================== ESTILOS DE LA SECCION EXPODENT (TERMINA)========================--*/
 
