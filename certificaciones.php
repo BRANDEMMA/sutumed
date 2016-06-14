@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/noticias.jpg">
 		<div class="titulo-secciones">
-			<h2>Expodent 2016</h2>
+			<h2>Certifications</h2>
 		</div>
 	</div>
 

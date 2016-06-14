@@ -34,7 +34,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/contacto.jpg">
 		<div class="titulo-secciones">
-			<h2>Contacto</h2>
+			<h2>Contact</h2>
 		</div>
 	</div>
 
@@ -50,7 +50,8 @@
 
 		<div class="datos-contacto">
 			<i class="fa fa-comment fa-2x" aria-hidden="true"></i>
-			<p>Call us<br><a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a></p>
+			<p>Call us<br><a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a><br>
+			<a href="tel: +12397859814" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 785 9814</a></p>
 		</div>		
 
 		<div class="clear"></div>
@@ -59,7 +60,7 @@
 	<div class="contenedor-formulario">
 		<div class="izquierda-formulario">
 			<div class="texto-formulario">
-				<h3>Santiago de chile - CHILE</h3>
+				<h3>Address USA</h3>
 				<p>Lorem ipsum dolor sit  eros erat sodales augue, sed tempor nibh diam in lacus. Quisque gravida massa et quam mattis, a tincidunt erat ullamcorper. </p>
 
 				<div class="redes-formulario">

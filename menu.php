@@ -17,12 +17,12 @@
 				<a href=""><img src="img/logo-sutumed.png"></a>
 				<nav>
 					<ul>
-						<li><a href="index.php">Inicio</a></li>
-						<li><a href="nosotros.php">Nosotros</a></li>
-						<li><a href="suturas.php">Suturas</a></li>
-						<li><a href="certificaciones.php">Certificaciones</a></li>
-						<li><a href="noticias.php">Noticias</a></li>
-						<li><a href="contacto.php">Contacto</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="nosotros.php">About Us</a></li>
+						<li><a href="suturas.php">Sutures</a></li>
+						<li><a href="certificaciones.php">Certifications</a></li>
+						<li><a href="noticias.php">News</a></li>
+						<li><a href="contacto.php">Contact</a></li>
 					</ul>
 				</nav>
 				<div class="clear"></div>
@@ -35,12 +35,12 @@
 				</label>
 				<nav class="menu">
 					<ul class="re">
-						<li><a href="">Inicio</a></li>
-						<li><a href="">Nosotros</a></li>
-						<li><a href="">Suturas</a></li>
-						<li><a href="">Certificaciones</a></li>
-						<li><a href="">Noticias</a></li>
-						<li><a href="">Contacto</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="nosotros.php">About Us</a></li>
+						<li><a href="suturas.php">Sutures</a></li>
+						<li><a href="certificaciones.php">Certifications</a></li>
+						<li><a href="noticias.php">News</a></li>
+						<li><a href="contacto.php">Contact</a></li>
 					</ul>
 				</nav>
 			</div> -->

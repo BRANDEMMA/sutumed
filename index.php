@@ -162,7 +162,7 @@
 	<div class="contenedor-gris">
 		<div class="resumen-nosotros">
 			<img src="img/resumen-nosotros.jpg">
-			<h4>NOSOTROS</h4>
+			<h4>ABOUT US</h4>
 			<p>We have been offering for more than 50 years our line of surgical sutures meeting the highest quality standards (FDA 510k, CE) that contribute to the successful development of surgery. <br>Sutumed has presence in over 33 countries worldwide and its main market in Latin America. However our concern for quality improvement in surgery has led us to have high quality standards, the proof is in our international certifications such as ISO 9001, ISO 13486, FDA 510k and CE. As our concern for innovation in high-quality materials such as needles and threads 302 series of European origin high quality surgical steel.</p>
 		</div>
 

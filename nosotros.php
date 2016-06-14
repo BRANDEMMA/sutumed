@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/nosotros.jpg">
 		<div class="titulo-secciones">
-			<h2>Nosotros</h2>
+			<h2>About Us</h2>
 		</div>
 	</div>
 

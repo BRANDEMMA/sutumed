@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/noticias.jpg">
 		<div class="titulo-secciones">
-			<h2>Últimas Noticias</h2>
+			<h2>News</h2>
 		</div>
 	</div>
 
