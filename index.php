@@ -166,7 +166,7 @@
 		</div>
 	</div>
 
-
+<!--
 	<div class="contenedor-gris">
 		<div class="resumen-nosotros">
 			<img src="img/resumen-nosotros.jpg">
@@ -247,7 +247,7 @@
 			</div>
 			<script src="js/slider2.js"></script>
 		</div>
-
+-->
 		<div class="clear"></div>
 	</div>
 
