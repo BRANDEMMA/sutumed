@@ -86,7 +86,7 @@ header{
 	float: left;
 	width: 236px;
 }
-.menu-principal nav{
+.menu-principal .nav-menu-principal{
 	float: right;
 }
 .menu-principal ul{
@@ -95,7 +95,7 @@ header{
 	list-style: none;
 	padding: 0;
 }
-.menu-principal nav a{
+.menu-principal .nav-menu-principal a{
 	color: #767676;
 	display: block;
 	margin: 10px 10px;
@@ -104,10 +104,9 @@ header{
 
 
 
-/*.menu-responsive{
+.menu-responsive{
 	display: none;
-	font-family: "my_riad_pro_regular";
-	margin-top: 2%;
+	font-family: "Titillium-Semibold";
 	position: relative;
 	width: 100%;
 }
@@ -117,10 +116,11 @@ header{
 	width: 30px;
 }
 .menu-responsive label:hover{
-	background-color: rgba(213,133,44,0.7);
+	background-color: rgba(44,61,109,0.8);
 	cursor: pointer;
 }
 .menu-responsive img{
+	height: 30px;
 	margin: 0;
 	padding: 0;
 	width: 30px;
@@ -156,7 +156,7 @@ header{
 }
 #btn-menu:checked ~ .menu{
 	left: 0;
-}*/
+}
 /*--==================== ESTILOS CABECERA (TERMINA)========================--*/
 
 
@@ -1164,5 +1164,43 @@ header{
 
 
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA)========================--*/
+@media(max-width: 830px){
+	.menu-principal{
+		text-align: center;
+	}
+	.menu-principal img{
+		float: none;
+	}
+	.nav-menu-principal{
+		display: none;
+	}
+	.menu-responsive{
+		display: block;
+	}
+	.contenido-mas-vendidas a{
+		width: 29%;
+	}
+}
+@media(max-width: 720px){
+	 .resumen-nosotros{
+	 	margin-bottom: 3%;
+	 	margin-right: 0;
+	 	width: 100%;
+	 }
+	 .slider-info{
+	 	width: 100%;
+	 }
+	 .espaciado{
+	 	margin-right: 1%;
+	 }
+	 .logo-texto{
+	 	margin-right: 10%;
+	 	width: 30%;
+	 }
+	 .textos{
+	 	width: 19%;
+	 }
+}
+
 
 /*--==================== ESTILOS DEL RESPONSIVE (INICIA)========================--*/

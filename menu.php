@@ -14,8 +14,27 @@
 			<div class="clear"></div>
 
 			<div class="menu-principal">
+				<!-- MENU RESPONSIVE -->
+				<div class="menu-responsive">
+					<input type="checkbox" id="btn-menu">
+					<label for="btn-menu">
+						<img src="img/menu-responsive-blanco.png">
+					</label>
+					<nav class="menu">
+						<ul class="re">
+							<li><a href="index.php">Home</a></li>
+							<li><a href="nosotros.php">About Us</a></li>
+							<li><a href="suturas.php">Sutures</a></li>
+							<li><a href="certificaciones.php">Certifications</a></li>
+							<li><a href="noticias.php">News</a></li>
+							<li><a href="contacto.php">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+				<!-- MENU RESPONSIVE -->
+			
 				<a href="index.php"><img src="img/logo-sutumed.png"></a>
-				<nav>
+				<nav class="nav-menu-principal">
 					<ul>
 						<li><a href="index.php">Home</a></li>
 						<li><a href="nosotros.php">About Us</a></li>
@@ -27,24 +46,7 @@
 				</nav>
 				<div class="clear"></div>
 			</div>
-			<!-- MENU RESPONSIVE -->
-			<!-- <div class="menu-responsive">
-				<input type="checkbox" id="btn-menu">
-				<label for="btn-menu">
-					<img src="img/menu-responsive.png">
-				</label>
-				<nav class="menu">
-					<ul class="re">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="nosotros.php">About Us</a></li>
-						<li><a href="suturas.php">Sutures</a></li>
-						<li><a href="certificaciones.php">Certifications</a></li>
-						<li><a href="noticias.php">News</a></li>
-						<li><a href="contacto.php">Contact</a></li>
-					</ul>
-				</nav>
-			</div> -->
-			<!-- MENU RESPONSIVE -->
+			
 		</div>
 
 <?php

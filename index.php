@@ -57,8 +57,8 @@
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
-					<h2>GREATER TENSILE STRENGTH</h2>
-					<p>Greater resistance of the suture in the needle – thread union (we increased the demand for testing according to USP by 30%).</p>
+					<h2>TENSILE STRENGTH</h2>
+					<p>Resistance of the suture in the needle – thread attachment according to USP.</p>
 					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
@@ -66,7 +66,7 @@
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
 					<h2>SILICONIZED NEEDLES</h2>
-					<p>Sutures with siliconized needles, with lower resistance to traction.</p>
+					<p>Siliconized needles allows an easy pass.</p>
 					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
@@ -81,8 +81,8 @@
 			<section>
 				<img src="img/slider1.jpg" alt="">
 				<div class="texto-slider">
-					<h2>ONE BY ONE QUALITY CONTROL</h2>
-					<p>All our sutures are tested, one by one, in order to guarantee its quality.</p>
+					<h2>QUALITY CONTROL</h2>
+					<p>Individual quality control guarantee the requirements of the surgeons.</p>
 					<!-- <a href="">Botón</a> -->
 				</div>
 			</section>
