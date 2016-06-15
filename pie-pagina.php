@@ -27,7 +27,9 @@
 	<div class="textos">
 		<h4>Contact</h4>
 		<p>Dirección de la emrpesa<br>
-		Usa<br>
+		Sutumed Corp<br>
+		9280 College Pkwy, Unit #5<br>
+		Fort Myers, FL 33919<br>
 		<a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a><br>
 		<a href="tel: +12397859814" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 785 9814</a><br>
 		<a href="mailto:info@sutumed.us">info@sutumed.us</a><br></p>

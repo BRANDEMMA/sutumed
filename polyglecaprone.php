@@ -48,7 +48,7 @@
 	</header>
 
 	<div class="contenedor-titulo-secciones">
-		<img src="img/noticias.jpg">
+		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
 			<h2>SUTURES</h2>
 		</div>
@@ -56,46 +56,50 @@
 
 	<div class="contenedor-producto">
 		<div class="img-producto">
-			<img src="img/producto-sutures.jpg">
+			<img src="img/mk-pg.png">
 		</div>
 		<div class="caracteristicas-producto">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polyglecaprone &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
-				<p>&#8226; Absorbable suture (polyglecaprone).<br>
-				&#8226; Generally known under the trade name MONOCRYL.<br>
-				&#8226; Monofilament thread.<br>
-				&#8226; Glycolic fact copolymer and epsilon caprolactone.<br>
-				&#8226; The absorption of this suture is complete within 120 days being absorbed by hydrolysis.
-				</p>
+				<ul>
+					<li>Absorbable suture (polyglecaprone).</li>
+					<li>Generally known under the trade name MONOCRYL.</li>
+					<li>Monofilament thread.</li>
+					<li>Glycolic fact copolymer and epsilon caprolactone.</li>
+					<li>The absorption of this suture is complete within 120 days being absorbed by hydrolysis.</li>
+				</ul>
 
 				<h4>Other features<br><div class="linea2"></div></h4>
-				<p>&#8226; Polyglecapronethread is available in violet color and colorless.<br>
-				&#8226; Thread size: from 5/0 to 1 USP.<br>
-				&#8226; SterilizedbyEthylene Oxide.<br>
-				&#8226; Boxes with 12 or 36 units.
-				</p>
+				<ul>
+					<li>Polyglecapronethread is available in violet color and colorless.</li>
+					<li>Thread size: from 5/0 to 1 USP.</li>
+					<li>SterilizedbyEthylene Oxide.</li>
+					<li>Boxes with 12 or 36 units.</li>
+				</ul>
 			</div>
 
 			<div class="der-producto">
 				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
-				<p>&#8226; Packaging ensures product sterility.<br>
-				&#8226; Peel open.<br>
-				&#8226; Siliconized needles allowing a minimum tissue trauma.<br>
-				&#8226; High tensile strength.<br>
-				&#8226; Uniform strand preventing tissue drag.<br>
-				&#8226; Softness, flexibility and elasticity that facilitates the use and concretion knots.
-				</p>
+				<ul>
+					<li>Packaging ensures product sterility.</li>
+					<li>Peel open.</li>
+					<li>Siliconized needles allowing a minimum tissue trauma.</li>
+					<li>High tensile strength.</li>
+					<li>Uniform strand preventing tissue drag.</li>
+					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+				</ul>
 
 				<h4>Recommended procedures<br><div class="linea4"></div></h4>
-				<p>&#8226;Suture soft tissue.<br>
-				&#8226; Ligature.<br>
-				&#8226; Peritoneum.<br>
-				&#8226; Uterus.<br>
-				&#8226; Vagina.<br>
-				&#8226; Skin.
-				</p>
+				<ul>
+					<li>Suture soft tissue.</li>
+					<li>Ligature.</li>
+					<li>Peritoneum.</li>
+					<li>Uterus.</li>
+					<li>Vagina.</li>
+					<li>Skin.</li>
+				</ul>
 			</div>
 
 			<div class="clear"></div>

@@ -48,7 +48,7 @@
 	</header>
 
 	<div class="contenedor-titulo-secciones">
-		<img src="img/noticias.jpg">
+		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
 			<h2>SUTURES</h2>
 		</div>
@@ -56,41 +56,45 @@
 
 	<div class="contenedor-producto">
 		<div class="img-producto">
-			<img src="img/producto-sutures.jpg">
+			<img src="img/mk-cc.png">
 		</div>
 		<div class="caracteristicas-producto">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Chromic Catgut &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
-				<p>&#8226; Absorbable suture.<br>
-				&#8226; Monofilament thread.<br>
-				&#8226; Collagen from sheep and cattle with chromium coating.<br>
-				&#8226; It is absorbed in 90 days by proteolytic digestive enzyme process. Depending on the state of biological defenses of the patient.
-				</p>
+				<ul>
+					<li>Absorbable suture.</li>
+					<li>Monofilament thread.</li>
+					<li>Collagen from sheep and cattle with chromium coating.</li>
+					<li>It is absorbed in 90 days by proteolytic digestive enzyme process. Depending on the state of biological defenses of the patient.</li>
+				</ul>
 
 				<h4>Other features<br><div class="linea2"></div></h4>
-				<p>&#8226; Chromic Catgut thread in brown color.<br>
-				&#8226; Thread size: from 5/0 to 2 USP.<br>
-				&#8226; Sterile Product.<br>
-				&#8226; Boxes with 12 or 36 units.
-				</p>
+				<ul>
+					<li>Chromic Catgut thread in brown color.</li>
+					<li>Thread size: from 5/0 to 2 USP.</li>
+					<li>Sterile Product.</li>
+					<li>Boxes with 12 or 36 units.</li>
+				</ul>
 			</div>
 
 			<div class="der-producto">
 				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
-				<p>&#8226; Packaging ensures product sterility.<br>
-				&#8226; Peel open.<br>
-				&#8226; siliconized needles allowing a minimum tissue trauma.<br>
-				&#8226; High tensile strength.<br>
-				&#8226; Uniform strand preventing tissue drag, With preservative liquid that favors the conservation of the suture.<br>
-				&#8226; Softness, flexibility and elasticity that facilitates the use and concretion knots.
-				</p>
+				<ul>
+					<li>Packaging ensures product sterility.</li>
+					<li>Peel open.</li>
+					<li>Siliconized needles allowing a minimum tissue trauma.</li>
+					<li>High tensile strength.</li>
+					<li>Uniform strand preventing tissue drag, With preservative liquid that favors the conservation of the suture.</li>
+					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+				</ul>
 
 				<h4>Recommended procedures<br><div class="linea4"></div></h4>
-				<p>&#8226; Suture tissue of skin and mucous membranes.<br>
-				&#8226; General surgery.
-				</p>
+				<ul>
+					<li>Suture tissue of skin and mucous membranes.</li>
+					<li>General surgery.</li>
+				</ul>
 			</div>
 
 			<div class="clear"></div>

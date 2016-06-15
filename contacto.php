@@ -61,7 +61,9 @@
 		<div class="izquierda-formulario">
 			<div class="texto-formulario">
 				<h3>Address USA</h3>
-				<p>Lorem ipsum dolor sit  eros erat sodales augue, sed tempor nibh diam in lacus. Quisque gravida massa et quam mattis, a tincidunt erat ullamcorper. </p>
+				<p>Sutumed Corp<br>
+				9280 College Pkwy, Unit #5<br>
+				Fort Myers, FL 33919</p>
 
 				<div class="redes-formulario">
 					<a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>

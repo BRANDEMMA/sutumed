@@ -884,8 +884,14 @@ header{
 	text-align: center;
 	width: 20%;
 }
-.nuevos-productos img{
+.fondo-gris2{
+	background-color: #EAEAEA;
+	border-radius: 50%;
+	margin: 0 auto;
 	width: 90%;
+}
+.nuevos-productos img{
+	width: 100%;
 }
 .nuevos-productos a{
 	color: #707070;
@@ -919,7 +925,7 @@ header{
 	width: 45%;
 }
 .img-producto img{
-	padding-top: 10%;
+	padding-top: 5%;
 	width: 90%;
 }
 .caracteristicas-producto{
@@ -961,6 +967,11 @@ header{
 }
 .caracteristicas-producto p{
 	margin-bottom: 15%;
+	text-align: justify;
+}
+.caracteristicas-producto ul{
+	margin-bottom: 15%;
+	padding-left: 20px;
 	text-align: justify;
 }
 .izq-producto{
@@ -1058,6 +1069,9 @@ header{
 .datos-contacto a{
 	color: #636462;
 	text-decoration: none;
+}
+.datos-contacto a:hover{
+	color: #f59b19;
 }
 .contenedor-formulario{
 	background-color: #FBFAFA;
