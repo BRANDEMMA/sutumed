@@ -63,7 +63,7 @@
 				</div>
 			</section>
 			<section>
-				<img src="img/slider1.jpg" alt="">
+				<img src="img/slider2.jpg" alt="">
 				<div class="texto-slider">
 					<h2>SILICONIZED NEEDLES</h2>
 					<p>Siliconized needles allows an easy pass.</p>
@@ -71,7 +71,7 @@
 				</div>
 			</section>
 			<section>
-				<img src="img/slider1.jpg" alt="">
+				<img src="img/slider3.jpg" alt="">
 				<div class="texto-slider">
 					<img class="logos-white" src="img/ufilo-white.png">
 					<p>U-FILO TECHNOLOGY - Provides appropriate behavior causing minimal tissue reaction.</p>
@@ -79,7 +79,7 @@
 				</div>
 			</section>
 			<section>
-				<img src="img/slider1.jpg" alt="">
+				<img src="img/slider4.jpg" alt="">
 				<div class="texto-slider">
 					<h2>QUALITY CONTROL</h2>
 					<p>Individual quality control guarantee the requirements of the surgeons.</p>
