@@ -290,11 +290,11 @@ header{
 }
 
 .contenedor-azul2{
-	background-color: #5b5b5b;
+	background-color: white;
 	width: 100%;
 }
 .contenedor-azul2 h2{
-	color: white;
+	color: #767676;;
 	font-family: "Titillium-Semibold";
 	margin: 0;
 	padding: 2% 0 3% 0;
@@ -308,7 +308,7 @@ header{
 	width: 90%;
 }
 .contenido-mas-vendidas a{
-	color: white;
+	color: #767676;
 	float: left;
 	font-family: "Titillium-Regular";
 	margin: 0 2% 3% 2%;
