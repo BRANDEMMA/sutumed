@@ -54,7 +54,7 @@
 	</header>
 
 	<div class="contenedor-titulo-secciones">
-		<img src="img/noticias.jpg">
+		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
 			<h2>SUTURES</h2>
 		</div>

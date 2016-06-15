@@ -48,7 +48,7 @@
 	</header>
 
 	<div class="contenedor-titulo-secciones">
-		<img src="img/noticias.jpg">
+		<img src="img/banner3.jpg">
 		<div class="titulo-secciones">
 			<h2>News</h2>
 		</div>
