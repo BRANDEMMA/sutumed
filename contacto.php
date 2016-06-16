@@ -39,7 +39,7 @@
 	</div>
 
 	<div class="mapa">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3900.9287202152036!2d-77.03103216319423!3d-12.117029578032575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2spe!4v1464366422206" frameborder="0" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com/maps/d/embed?mid=1lxWXOJgogNNgmiIR7eU0ZI8QSUU" width="640" height="480"></iframe>
 	</div>
 
 	<div class="contenedor-datos-contacto">
