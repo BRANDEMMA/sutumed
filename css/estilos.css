@@ -1180,6 +1180,12 @@ header{
 
 
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA)========================--*/
+@media(max-width: 1100px){
+	.img-nosotros1{
+		padding-bottom: 3%;
+    	padding-left: 5%;
+	}
+}
 @media(max-width: 830px){
 	.menu-principal{
 		background-color: transparent;
@@ -1203,6 +1209,11 @@ header{
 		width: 29%;
 	}
 }
+@media(max-width: 770px){
+	.contenedor-contacto-desplegable{
+	 	width: 60%;
+	 }
+}
 @media(max-width: 720px){
 	 .resumen-nosotros{
 	 	margin-bottom: 3%;
@@ -1222,8 +1233,8 @@ header{
 	 .textos{
 	 	width: 19%;
 	 }
-	 .contenedor-contacto-desplegable{
-	 	width: 60%;
+	 .contenido-nosotros{
+	 	width: 75%;
 	 }
 }
 @media(max-width: 690px){
