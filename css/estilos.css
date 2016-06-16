@@ -1182,7 +1182,8 @@ header{
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA)========================--*/
 @media(max-width: 830px){
 	.menu-principal{
-		text-align: center;
+		background-color: transparent;
+		display: flex;
 	}
 	.menu-principal img{
 		float: none;
@@ -1192,6 +1193,11 @@ header{
 	}
 	.menu-responsive{
 		display: block;
+		margin-top: 3%;
+		width: auto;
+	}
+	.logo{
+		margin: 0 auto;
 	}
 	.contenido-mas-vendidas a{
 		width: 29%;
@@ -1216,7 +1222,102 @@ header{
 	 .textos{
 	 	width: 19%;
 	 }
+	 .contenedor-contacto-desplegable{
+	 	width: 60%;
+	 }
 }
-
-
+@media(max-width: 690px){
+	#slider .texto-slider{
+		top: 35%;
+	}
+}
+@media(max-width: 600px){
+	#slider .texto-slider{
+		top: 50%;
+	}
+	.texto-slider h2{
+		font-size: 2em;
+	}
+	#slider .logos-white{
+		margin-bottom: 10px;
+		width: 150px;
+	}
+}
+@media(max-width: 565px){
+	.contacto-cabecera{
+		display: none;
+	}
+	.redes-sociales{
+		margin-bottom: 0;
+	}
+}
+@media(max-width: 550px){
+	.contenido-mas-vendidas a{
+		width: 46%;
+	}
+	.logo-texto{
+		float: none;
+	    margin: 0 auto;
+	    margin-top: 2%;
+	    width: 90%;
+	}
+	.logo-texto img{
+		width: 45%;
+	}
+	.logo-texto p{
+		margin-top: 1%;
+	}
+	.textos{
+		width: 30%;
+	}
+	.espaciado{
+		margin-right: 5%;
+	}
+}
+@media(max-width: 500px){
+	#btn-avanzar, #btn-retroceder{
+		height: 20px;
+		width: 20px;
+	}
+}
+@media(max-width: 475px){
+	#slider .texto-slider{
+		left: 5%;
+	}
+}
+@media(max-width: 450px){
+	.contenido-mas-vendidas a{
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 5%;
+		width: 60%;
+	}
+}
+@media(max-width: 430px){
+	#slider .texto-slider{
+		display: none;
+	}
+}
+@media(max-width: 400px){
+	.textos{
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 60%;
+	}
+	.espaciado{
+		margin: 0 auto;
+	}
+	.contenido-mas-vendidas a{
+		width: 75%;
+	}
+}
+@media(max-width: 350px){
+	.logo img{
+		width: 180px;
+	}
+	.logo-texto img{
+		width: 60%;
+	}
+}
 /*--==================== ESTILOS DEL RESPONSIVE (INICIA)========================--*/

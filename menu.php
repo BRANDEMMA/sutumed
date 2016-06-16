@@ -33,7 +33,7 @@
 				</div>
 				<!-- MENU RESPONSIVE -->
 			
-				<a href="index.php"><img src="img/logo-sutumed.png"></a>
+				<a class="logo" href="index.php"><img src="img/logo-sutumed.png"></a>
 				<nav class="nav-menu-principal">
 					<ul>
 						<li><a href="index.php">Home</a></li>
