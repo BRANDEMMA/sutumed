@@ -48,7 +48,7 @@
 	</header>
 
 	<div class="contenedor-titulo-secciones">
-		<img src="img/banner2.jpg">
+		<img src="img/banner4.jpg">
 		<div class="titulo-secciones">
 			<h2>Certifications</h2>
 		</div>
@@ -56,7 +56,7 @@
 
 	<div class="noticias-blanco">
 		<div class="img-noticia2">
-			<img src="img/expodent.jpg">
+			<img src="img/certificados.jpg">
 		</div>
 		<div class="texto-noticia2">
 			<h3>Sales  Certificate</h3>
