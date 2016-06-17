@@ -73,6 +73,44 @@ header{
 	font-size: 0.8em;
 	margin: 1em 0;
 }
+.idiomas{
+	color: white;
+	display: flex;
+	font-family: "Titillium-Semibold";
+    float: right;
+    margin-left: 5px;
+    width: 135px;
+}
+.idiomas img{
+	width: 20px;
+}
+.idiomas ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+.idiomas ul a{
+	color: white;
+	text-decoration: none;
+}
+.idiomas ul a:hover{
+	color: #f59b19;
+}
+.idiomas ul a i{
+	margin-bottom: 8px;
+	margin-right: 5px;
+}
+.idiomas ul li{
+	/*background-color: rgba(255,255,255,0.5);*/
+	display: none;	
+	padding-bottom: 5px;
+	padding-left: 16px;
+	padding-right: 5px;
+}
+.idiomas ul:hover > li{
+	display: block;
+}
 .redes-sociales a{
 	color: white;
 	margin: 0 8px;
@@ -1353,6 +1391,12 @@ header{
 	 .img-noticia{
 	 	padding-top: 12%;
 	 }
+	 .contacto-cabecera{
+		display: none;
+	}
+	.redes-sociales{
+		width: 100%;
+	}
 }
 @media(max-width: 700px){
 	.der-producto{
@@ -1444,9 +1488,6 @@ header{
 	}
 }
 @media(max-width: 565px){
-	.contacto-cabecera{
-		display: none;
-	}
 	.redes-sociales{
 		margin-bottom: 0;
 	}

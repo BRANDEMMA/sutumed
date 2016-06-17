@@ -6,6 +6,14 @@
 				<p>Tienes preguntas? &nbsp; <a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;"><i class="fa fa-phone naranja" aria-hidden="true"></i> USA +1 (239) 888 7805</a> &nbsp;&nbsp; <a href="mailto:info@sutumed.us"><i class="fa fa-envelope-o naranja" aria-hidden="true"></i> info@sutumed.us</a></p>
 			</div>
 			<div class="redes-sociales">
+				<div class="idiomas">
+					<label>Idioma</label>
+					<ul>
+						<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/espana.gif"> Español</a>
+						<li><a href="../index.php"> <img src="img/usa.gif"> Inglés</a></li>
+					</ul>
+				</div>
+
 				<a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
 				<a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a>
 				<a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
