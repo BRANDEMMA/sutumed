@@ -7,10 +7,10 @@
 			</div>
 			<div class="redes-sociales">
 				<div class="idiomas">
-					<label>Idioma</label>
+					<label>Languages</label>
 					<ul>
-						<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/usa.gif"> Inglés</a>
-						<li><a href="espanol/index.php"><img src="img/espana.gif"> Español </a></li>
+						<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/usa.gif"> English</a>
+						<li><a href="espanol/index.php"><img src="img/espana.gif"> Spanish</a></li>
 					</ul>
 				</div>
 
