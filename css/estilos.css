@@ -1186,6 +1186,11 @@ header{
     	padding-left: 5%;
 	}
 }
+@media(max-width: 900px){
+	.nuevos-productos{
+		width: 25%;
+	}
+}
 @media(max-width: 830px){
 	.menu-principal{
 		background-color: transparent;
@@ -1242,6 +1247,11 @@ header{
 		top: 35%;
 	}
 }
+@media(max-width: 650px){
+	.nuevos-productos{
+		width: 40%;
+	}
+}
 @media(max-width: 600px){
 	#slider .texto-slider{
 		top: 50%;
@@ -1252,6 +1262,13 @@ header{
 	#slider .logos-white{
 		margin-bottom: 10px;
 		width: 150px;
+	}
+	.contenido-nosotros{
+		width: 80%;
+	}
+	.img-nosotros1{
+		padding-bottom: 3%;
+		width: 50%;
 	}
 }
 @media(max-width: 565px){
@@ -1303,6 +1320,9 @@ header{
 		margin-bottom: 5%;
 		width: 60%;
 	}
+	.nuevos-productos{
+		width: 60%;
+	}
 }
 @media(max-width: 430px){
 	#slider .texto-slider{
@@ -1322,6 +1342,11 @@ header{
 	.contenido-mas-vendidas a{
 		width: 75%;
 	}
+	.img-nosotros1{
+		padding-bottom: 5%;
+		padding-left: 0;
+		width: 100%;
+	}
 }
 @media(max-width: 350px){
 	.logo img{
@@ -1329,6 +1354,9 @@ header{
 	}
 	.logo-texto img{
 		width: 60%;
+	}
+	.nuevos-productos{
+		width: 65%;
 	}
 }
 /*--==================== ESTILOS DEL RESPONSIVE (INICIA)========================--*/
