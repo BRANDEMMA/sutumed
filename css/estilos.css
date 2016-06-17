@@ -1044,13 +1044,14 @@ header{
 	width: 100%;
 }
 .mapa iframe{
+	border: none;
 	height: 350px;
 	width: 100%;
 }
 .contenedor-datos-contacto{
 	padding: 20px 0;
 	padding-left: 12%;
-	width: 100%;
+	width: 88%;
 }
 .datos-contacto{
 	display: flex;
@@ -1180,15 +1181,108 @@ header{
 
 
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA)========================--*/
+@media(max-width: 1300px){
+	.img-noticia2{
+		padding: 5% 0;
+	}
+}
+
+@media(max-width: 1200px){
+	.contenedor-producto{
+		padding: 3%;
+		width: 94%;
+	}
+	.img-producto{
+		width: 40%;
+	}
+	.caracteristicas-producto{
+		width: 60%;
+	}
+}
+@media(max-width: 1150px){
+	.der-producto{
+		padding-bottom: 8%;
+		padding-left: 6%;
+		width: 43%;
+	}
+	.izq-producto{
+		margin-right: 6%;
+		width: 44%;
+	}
+}
 @media(max-width: 1100px){
 	.img-nosotros1{
 		padding-bottom: 3%;
     	padding-left: 5%;
 	}
+	.img-noticia2{
+		padding: 10% 0;
+	}
+	.img-noticia{
+		padding-top: 5%;
+	}
+}
+@media(max-width: 980px){
+	.contenedor-datos-contacto{
+		padding: 2% 5%;
+		width: 90%;
+	}
+	.datos-contacto{
+		width: 50%;
+	}
+}
+@media(max-width: 950px){
+	.izq-producto{
+		margin-right: 4%;
+		width: 46%;
+	}
+	.der-producto{
+		padding-left: 4%;
+		width: 45%;
+	}
+	.texto-formulario{
+		float: left;
+		padding-left: 20%;
+		width: 80%;
+	}
 }
 @media(max-width: 900px){
 	.nuevos-productos{
 		width: 25%;
+	}
+	.img-producto{
+		text-align: center;
+		width: 100%;
+	}
+	.img-producto img{
+    	margin-top: -70px;
+    	padding-top: 0;
+    	width: 50%;
+	}
+	.caracteristicas-producto{
+		margin-top: -60px;
+		width: 100%;
+	}
+	.caracteristicas-producto h3{
+		margin-bottom: 3%;
+		text-align: center;
+	}
+	.izq-producto{
+		margin-right: 0;
+		padding: 0 5%;
+		width: 40%;
+	}
+	.der-producto{
+		padding: 0 5%;
+    	width: 39%;
+	}
+	.img-noticia{
+		padding-top: 7%;
+	}
+}
+@media(max-width: 850px){
+	.img-noticia2{
+		padding: 17% 0;
 	}
 }
 @media(max-width: 830px){
@@ -1204,8 +1298,11 @@ header{
 	}
 	.menu-responsive{
 		display: block;
-		margin-top: 3%;
+		margin-top: 6%;
 		width: auto;
+	}
+	.menu-responsive label{
+		background-color: rgba(0,0,0,0.4);
 	}
 	.logo{
 		margin: 0 auto;
@@ -1218,6 +1315,18 @@ header{
 	.contenedor-contacto-desplegable{
 	 	width: 60%;
 	 }
+}
+@media(max-width: 750px){
+	.menu-responsive{
+		margin-top: 7%;
+	}
+	.img-producto img{
+		margin-top: -80px;
+		width: 60%;
+	}
+	.img-noticia{
+		padding-top: 10%;
+	}
 }
 @media(max-width: 720px){
 	 .resumen-nosotros{
@@ -1241,6 +1350,48 @@ header{
 	 .contenido-nosotros{
 	 	width: 75%;
 	 }
+	 .img-noticia{
+	 	padding-top: 12%;
+	 }
+}
+@media(max-width: 700px){
+	.der-producto{
+		padding-bottom: 7%;
+	}
+	.img-noticia2{
+		border-right: 0;
+		padding: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.img-noticia2 img{
+		width: 40%;
+	}
+	.texto-noticia2{
+		padding: 3% 10%;
+		width: 80%;
+	}
+	.izquierda-formulario{
+		margin-right: 0;
+		width: 100%;
+	}
+	.texto-formulario{
+		padding: 0 5%;
+		width: 90%;
+	}
+	.redes-formulario{
+		margin-top: 0;
+	}
+	.derecha-formulario{
+		margin-right: 0;
+		width: 100%;
+	}
+	.derecha-formulario form{
+		margin: 0 auto;
+	    margin-bottom: 3%;
+	    margin-top: 5%;
+	    width: 70%;
+	}
 }
 @media(max-width: 690px){
 	#slider .texto-slider{
@@ -1250,6 +1401,15 @@ header{
 @media(max-width: 650px){
 	.nuevos-productos{
 		width: 40%;
+	}
+	.contenedor-nuevos p{
+		margin-bottom: 3%;
+	}
+	.menu-responsive{
+		margin-top: 8%;
+	}
+	.img-noticia{
+		padding-top: 14%;
 	}
 }
 @media(max-width: 600px){
@@ -1270,6 +1430,18 @@ header{
 		padding-bottom: 3%;
 		width: 50%;
 	}
+	.der-producto{
+		padding-bottom: 10%;
+	}
+	.campos-formulario, .campos-formulario input{
+		width: 100%;
+	}
+	.mensaje-formulario textarea{
+		width: 99%;
+	}
+	.error{
+		text-align: center;
+	}
 }
 @media(max-width: 565px){
 	.contacto-cabecera{
@@ -1277,6 +1449,9 @@ header{
 	}
 	.redes-sociales{
 		margin-bottom: 0;
+	}
+	.menu-responsive{
+		margin-top: 9%;
 	}
 }
 @media(max-width: 550px){
@@ -1293,7 +1468,7 @@ header{
 		width: 45%;
 	}
 	.logo-texto p{
-		margin-top: 1%;
+		margin-top: 3%;
 	}
 	.textos{
 		width: 30%;
@@ -1301,11 +1476,38 @@ header{
 	.espaciado{
 		margin-right: 5%;
 	}
+	.img-noticia{
+		padding-top: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.img-noticia img{
+		width: 70%;
+	}
+	.texto-noticia{
+		border-left: none;
+		padding: 0 5% 3% 5%;
+		width: 90%;
+	}
+}
+@media(max-width: 520px){
+	.menu-responsive{
+		margin-top: 11%;
+	}
 }
 @media(max-width: 500px){
 	#btn-avanzar, #btn-retroceder{
 		height: 20px;
 		width: 20px;
+	}
+	.img-producto img{
+		width: 80%;
+	}
+	.der-producto{
+		padding-bottom: 23%;
+	}
+	.img-noticia2 img{
+		width: 50%;
 	}
 }
 @media(max-width: 475px){
@@ -1322,6 +1524,31 @@ header{
 	}
 	.nuevos-productos{
 		width: 60%;
+	}
+	.contenedor-nuevos p{
+		margin-bottom: 4%;
+	}
+	.menu-responsive{
+		margin-top: 13%;
+	}
+	.img-producto img{
+		width: 95%;
+	}
+	.izq-producto{
+		padding: 0 10%;
+		width: 80%;
+	}
+	.der-producto{
+		border-left: 0;
+		padding: 0 10%;
+		width: 80%;
+	}
+	.texto-formulario{
+		float: none;
+		margin: 0 auto;
+		padding: 0;
+		width: 80%;
+
 	}
 }
 @media(max-width: 430px){
@@ -1347,16 +1574,43 @@ header{
 		padding-left: 0;
 		width: 100%;
 	}
+	.menu-responsive{
+		margin-top: 15%;
+	}
+	.menu-principal{
+		padding: 12.2px 2%;
+	}
+	.img-noticia2 img{
+		width: 60%;
+	}
+	.datos-contacto{
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 3%;
+		width: 55%;
+	}
 }
 @media(max-width: 350px){
 	.logo img{
-		width: 180px;
+		width: 220px;
 	}
 	.logo-texto img{
 		width: 60%;
 	}
 	.nuevos-productos{
 		width: 65%;
+	}
+	.img-producto img{
+		margin-top: -65px;
+	}
+	.caracteristicas-producto{
+		margin-top: -45px;
+	}
+	.img-noticia2 img{
+		width: 65%;
+	}
+	.img-noticia img{
+		width: 80%;
 	}
 }
 /*--==================== ESTILOS DEL RESPONSIVE (INICIA)========================--*/

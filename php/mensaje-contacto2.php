@@ -16,7 +16,7 @@ Mensaje enviado desde la sección Contáctanos de la Página Web Sutumed";
 //Cabecera
 $cabeceras = "Responder a : $email";
 $asunto = utf8_decode("Mensaje desde la página Web");
-$email_to = "jromero@brandemma.com";
+$email_to = "info@sutumed.us";
 $contenido = utf8_decode("$mensaje");
 //Enviamos y resultados del mensaje
 if (@mail($email_to, $asunto ,$contenido ,$headers )) {
