@@ -11,6 +11,7 @@
 					<ul>
 						<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/espana.gif"> Español</a>
 						<li><a href="../index.php"> <img src="img/usa.gif"> Inglés</a></li>
+						<li><a href="../portugues/index.php"> <img src="img/brasil.gif"> Portugués</a></li>
 					</ul>
 				</div>
 

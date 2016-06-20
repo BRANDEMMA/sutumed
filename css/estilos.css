@@ -74,13 +74,12 @@ header{
 	margin: 1em 0;
 }
 .idiomas{
-	background-color: rgba(255,255,255,0.5);
 	color: white;
 	display: flex;
 	font-family: "Titillium-Semibold";
     float: right;
     margin-left: 5px;
-    width: 165px;
+    width: 180px;
 }
 .idiomas img{
 	margin-bottom: -2px;
@@ -91,6 +90,9 @@ header{
 	margin: 0;
 	padding: 0;
 	position: absolute;
+}
+.idiomas ul:hover{
+	background-color: rgba(255,255,255,0.5);
 }
 .idiomas ul a{
 	color: white;
