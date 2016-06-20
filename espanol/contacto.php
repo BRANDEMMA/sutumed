@@ -50,7 +50,7 @@
 
 		<div class="datos-contacto">
 			<i class="fa fa-comment fa-2x" aria-hidden="true"></i>
-			<p>Call us<br><a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a><br>
+			<p>Llámanos<br><a href="tel: +12398887805" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 888 7805</a><br>
 			<a href="tel: +12397859814" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">USA + 1 (239) 785 9814</a></p>
 		</div>		
 

@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,46 +59,46 @@
 			<img src="img/mk-pg.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polyglecaprone &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Poliglecaprone &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Absorbable suture (polyglecaprone).</li>
-					<li>Generally known under the trade name MONOCRYL.</li>
-					<li>Monofilament thread.</li>
-					<li>Glycolic fact copolymer and epsilon caprolactone.</li>
-					<li>The absorption of this suture is complete within 120 days being absorbed by hydrolysis.</li>
+					<li>Sutura absorbible (poliglecaprone).</li>
+					<li>Generalmente conocido bajo el nombre comercial MONOCRYL.</li>
+					<li>Hebra monofilamento.</li>
+					<li>Copolímero hecho de glicólico y caprolactona épsilon.</li>
+					<li>La absorción de esta sutura es completa dentro de los 120 días de ser absorbida por hidrólisis.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Otras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Polyglecapronethread is available in violet color and colorless.</li>
-					<li>Thread size: from 5/0 to 1 USP.</li>
-					<li>SterilizedbyEthylene Oxide.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>Poliglecaprone está disponible en color violeta e incoloro.</li>
+					<li>Tamaño de 5/0 a 1 USP.</li>
+					<li>Esterilizados con óxido de etileno.</li>
+					<li>Cajas con 12 o 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Ventajas y Beneficios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Empaque que asegura la esterilidad del producto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agujas siliconados que permiten un mínimo trauma del tejido.</li>
+					<li>Alta resistencia a la tracción.</li>
+					<li>Filamento uniforme que  previene el arrastre tisular.</li>
+					<li>Suavidad, flexibilidad y elasticidad que facilita el uso y concreción nudos.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimientos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>Suture soft tissue.</li>
-					<li>Ligature.</li>
-					<li>Peritoneum.</li>
-					<li>Uterus.</li>
+					<li>Tejido blando.</li>
+					<li>Ligadura.</li>
+					<li>Peritoneo.</li>
+					<li>Útero.</li>
 					<li>Vagina.</li>
-					<li>Skin.</li>
+					<li>Piel.</li>
 				</ul>
 			</div>
 

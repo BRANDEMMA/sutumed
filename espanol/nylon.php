@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -64,42 +64,42 @@
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Nonabsorbable nylon suture.</li>
-					<li>Generally known under the trade name ETHILON.</li>
-					<li>Monofilament thread.</li>
-					<li>Suture made from long chain aliphatic polymers Nylon.</li>
-					<li>It is not absorbed, it is gradually encapsulated by tissue.</li>
+					<li>Sutura de nylon no absorbible.</li>
+					<li>Generalmente conocido bajo el nombre comercial ETHILON.</li>
+					<li>Hilo monofilamento.</li>
+					<li>Sutura hecha de polímeros de cadena larga alifáticos Nylon.</li>
+					<li>No se absorbe, se encapsula gradualmente por tejido.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Otras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Color: Black.</li>
-					<li>Thread size: from 11/0 to 2/0 USP.</li>
-					<li>Sterilized by Ethylene Oxide.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>De color negro.</li>
+					<li>Tamaño de la rosca: de 11/0 a 2/0 de la USP.</li>
+					<li>Esterilizados con óxido de etileno.</li>
+					<li>Cajas con 12 o 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Ventajas y Beneficios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Packaging asegura la esterilidad del producto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agujas siliconados que permiten un mínimo trauma del tejido.</li>
+					<li>Alta resistencia a la tracción.</li>
+					<li>Filamento uniforme prevenir arrastre de tejido.</li>
+					<li>Suavidad, flexibilidad y elasticidad que facilita el uso y concreción nudos.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimientos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>It is used for tissue approximation and ligatures.</li>
-					<li>Cardiovascular surgery.</li>
-					<li>Ophthalmic surgery.</li>
-					<li>Neurosurgery.</li>
-					<li>Skin clousure.</li>
-					<li>Microsurgery.</li>
-					<li>Others surgeon consideration.</li>
+					<li>Se utiliza para la aproximación de tejidos y ligaduras.</li>
+					<li>Cirugía Cardiovascular.</li>
+					<li>Cirugía oftálmica.</li>
+					<li>Neurocirugía.</li>
+					<li>Cierre con la piel.</li>
+					<li>Microcirugía.</li>
+					<li>Consideración otras cirujano.</li>
 				</ul>
 			</div>
 

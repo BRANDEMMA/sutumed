@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,45 +59,45 @@
 			<img src="img/mk-pp.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polypropylene &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polipropileno &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Nonabsorbable polypropylene suture.</li>
-					<li>Generally known under the trade name PROLENE.</li>
-					<li>Monofilament thread.</li>
-					<li>Suture made crystalline isotactic polypropylene stereoisomer.</li>
-					<li>It is not absorbed, it is gradually encapsulated by tissue.</li>
+					<li>Sutura de polipropileno no absorbible.</li>
+					<li>Generalmente conocido bajo el nombre comercial PROLENE.</li>
+					<li>Hilo monofilamento.</li>
+					<li>Sutura hecha cristalina estereoisómero polipropileno isotáctico.</li>
+					<li>No se absorbe, se encapsula gradualmente por tejido.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Otras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Color: Blue.</li>
-					<li>Thread size: from 8/0 to 2 USP.</li>
-					<li>Sterilized by Ethylene Oxide.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>Color azul</li>
+					<li>Tamaño de la rosca: de 8/0 a 2 USP.</li>
+					<li>Esterilizados con óxido de etileno.</li>
+					<li>Cajas con 12 o 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Ventajas y Beneficios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Packaging asegura la esterilidad del producto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agujas siliconados que permiten un mínimo trauma del tejido.</li>
+					<li>Alta resistencia a la tracción.</li>
+					<li>Filamento uniforme prevenir arrastre de tejido.</li>
+					<li>Suavidad, flexibilidad y elasticidad que facilita el uso y concreción nudos.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimientos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>It is used for tissue approximation and ligatures.</li>
-					<li>Cardiovascular surgery.</li>
-					<li>Ophthalmic surgery.</li>
-					<li>Neurosurgery.</li>
-					<li>Others surgeon consideration.</li>
+					<li>Se utiliza para la aproximación de tejidos y ligaduras.</li>
+					<li>Cirugía Cardiovascular.</li>
+					<li>Cirugía oftálmica.</li>
+					<li>Neurocirugía.</li>
+					<li>Consideración otras cirujano.</li>
 				</ul>
 			</div>
 

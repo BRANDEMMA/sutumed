@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,46 +59,46 @@
 			<img src="img/mk-st.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Black Braided Silk &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Seda Negra Trenzada &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Nonabsorbable silk suture.</li>
-					<li>Generally known under the trade name PERMA-HAND.</li>
-					<li>Stranded strand.</li>
-					<li>Made of an organic protein fibroin name.</li>
-					<li>It is not absorbed, it is gradually encapsulated by tissue.</li>
+					<li>Sutura de seda no absorbible.</li>
+					<li>Generalmente conocido con el nombre comercial PERMA-MANO.</li>
+					<li>Filamento trenzado.</li>
+					<li>Hecho de un nombre de fibroína proteína orgánica.</li>
+					<li>No se absorbe, se encapsula gradualmente por el tejido.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Otras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Color: Black.</li>
-					<li>Thread size: from 8/0 to 5 USP.</li>
-					<li>Sterilized by Ethylene Oxide.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>De color negro.</li>
+					<li>Tamaño de la rosca: de 8/0 a 5 USP.</li>
+					<li>Esterilizados con óxido de etileno.</li>
+					<li>Cajas con 12 o 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Ventajas y Beneficios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Empaque que asegura la esterilidad del producto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agujas siliconadas que permiten un mínimo trauma del tejido.</li>
+					<li>Alta resistencia a la tracción.</li>
+					<li>Filamento uniforme que previene arrastre de tejido.</li>
+					<li>Suavidad, flexibilidad y elasticidad que facilita el uso y concreción nudos.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimientos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>It is used for tissue approximation and ligatures.</li>
-					<li>Cardiovascular surgery.</li>
-					<li>Ophthalmic surgery.</li>
-					<li>Neurosurgery.</li>
-					<li>Dental surgery.</li>
-					<li>Others surgeon consideration.</li>
+					<li>Se utiliza para la aproximación de tejidos y ligaduras.</li>
+					<li>Cirugía Cardiovascular.</li>
+					<li>Cirugía oftálmica.</li>
+					<li>Neurocirugía.</li>
+					<li>Cirugía dental.</li>
+					<li>Otras a consideración cirujano.</li>
 				</ul>
 			</div>
 

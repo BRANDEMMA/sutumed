@@ -62,8 +62,9 @@
 			<h3>Noticias</h3>
 			<!-- <p class="subtitulo">Santiago de chile - CHILE</p> -->
 
-			<p>We are pleased to announce that our brand SUTUMED FIME will be present at the fair, the largest medical exhibition of medical equipment and supplies in North America, Central America and South America.<br><br>
-			You can find us at booth D.C41.</p>
+			<p>Anunciar que nuestra marca SUTUMED estará presente en la feria FIME, la exposición médica más grande de equipos y suministros médicos en América del Norte, América Central y América del Sur.<br><br>
+
+			Usted puede encontrarnos en el stand D.C41.</p>
 
 			<!-- <p class="detalles">
 				<i class="fa fa-check negro" aria-hidden="true"></i>&nbsp;&nbsp; 30 March 2016<br><br>

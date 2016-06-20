@@ -2,7 +2,7 @@
 ?>
 	<div class="contenedor-nuevos margen-superior">
 		<h3>SUTURAS ABSORBIBLES</h3>
-		<p>Sutures are used in different procedures. The most used are the tissue approximation and ligation of blood vessels temporarily. These procedures and the characteristics of each features make the properties and characteristics of each strand may vary to suit the intervention. That is why the sutures may be degraded or hydrolyzed (as synthetic sutures).</p>
+		<p>Las suturas se utilizan en diferentes procedimientos. Los más utilizados son la aproximación del tejido y la ligadura de los vasos sanguíneos de forma temporal. Estos procedimientos y las características de cada características hacen que las propiedades y características de cada hebra puede variar para adaptarse a la intervención. Es por ello que las suturas pueden ser degradados o hidrolizados (como suturas sintéticas).</p>
 
 		<div class="nuevos-productos">
 			<a href="catgut-plain.php"><div class="fondo-gris2"><img src="img/mk-cs.png"></div></a>

@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,43 +59,43 @@
 			<img src="img/mk-pd.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polydioxanone &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polidioxanona &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Absorbable suture (polydioxanone).</li>
-					<li>Generally known under the trade name PDS.</li>
-					<li>Monofilament thread.</li>
-					<li>Made of polyester polymer.</li>
-					<li>The absorption of this suture is complete within 230 days being absorbed by hydrolysis.</li>
+					<li>Sutura absorbible (polidioxanona).</li>
+					<li>Generalmente conocidos bajo los nombres comerciales PDS.</li>
+					<li>Hebra monofilamento.</li>
+					<li>Hecha de polímero de poliéster.</li>
+					<li>La absorción de esta sutura se completa en 230 días de ser absorbida por hidrólisis.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Otras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Polydioxanone thread available in violet color.</li>
-					<li>Thread size: from 6/0 to 1 USP.</li>
-					<li>Sterilized by Ethylene Oxide.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>Polidioxanona con hilo disponible en color violeta.</li>
+					<li>Tamaño de 6/0 a 1 USP.</li>
+					<li>Esterilizados con óxido de etileno.</li>
+					<li>Cajas con 12 o 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Ventajas y Beneficios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Empaque que asegura la esterilidad del producto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agujas siliconados que permiten un mínimo trauma del tejido.</li>
+					<li>Alta resistencia a la tracción.</li>
+					<li>Filamento uniforme que  previene el arrastre tisular.</li>
+					<li>Suavidad, flexibilidad y elasticidad que facilita el uso y concreción nudos.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
-				<ul>Suture tissue of skin and mucous membranes in the short term:
-					<li>General surgery.</li>
-					<li>Pediatrics.</li>
-					<li>Ophthalmic.</li>
+				<h4>Procedimientos recomendados<br><div class="linea4"></div></h4>
+				<ul>Tejido de sutura de la piel y las membranas mucosas en el corto plazo:
+					<li>Cirugía General.</li>
+					<li>Pediatría.</li>
+					<li>Oftálmico.</li>
 					<li>Cardivascular.</li>
 				</ul>
 			</div>

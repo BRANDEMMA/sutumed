@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,41 +59,41 @@
 			<img src="img/mk-cs.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Catgut Plain &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Catgut Simple &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Absorbable suture.</li>
-					<li>Monofilament thread.</li>
-					<li>Collagen from sheep and cattle.</li>
-					<li>It is absorbed in 70 days by proteolytic digestive enzyme process. Depending on the state of biological defenses of the patient.</li>
+					<li>Sutura absorbible.</li>
+					<li>Hebra monofilamento.</li>
+					<li>El colágeno de ganado ovino y bovino.</li>
+					<li>Se absorbe en 70 días por el proceso digestivo de la enzima proteolítica. Dependiendo del estado de las defensas biológicas del paciente.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Otras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Simple Catgut thread in bright yellow – beige.</li>
-					<li>Thread size: from 3/0 to 0 USP.</li>
-					<li>Sterile product.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>Catgut simple con hilo de color amarillo brillante - beige.</li>
+					<li>Tamaño de 3/0 a 0 USP.</li>
+					<li>Producto esteril.</li>
+					<li>Caja con 12 o 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Ventajas y Beneficios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Empaque que asegura la esterilidad del producto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag, With preservative liquid that favors the conservation of the suture.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agujas siliconados que permiten un mínimo trauma del tejido.</li>
+					<li>Alta resistencia a la tracción.</li>
+					<li>Filamento uniforme que  previene el arrastre tisular.</li>
+					<li>Suavidad, flexibilidad y elasticidad que facilita el uso y concreción nudos.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimientos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>Suture tissue of skin and mucous membranes.</li>
-					<li>General surgery.</li>
+					<li>Tejido de sutura de la piel y las membranas mucosas.</li>
+					<li>Cirugía General.</li>
 				</ul>
 			</div>
 
