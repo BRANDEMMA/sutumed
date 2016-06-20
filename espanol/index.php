@@ -129,37 +129,37 @@
 			<a href="polyglycolic-acid.php"><div class="mas-vendidas">
 				<div class="fondo-gris"><img src="img/mk-ap.png"></div>
 				<h3>Acido Poliglicólico (PGA)</h3>
-				<p>Polyglycolic acid (PGA) is a synthetic suture, ABSORBABLE, Sterile, Multifilament, which meets all requirements established by the USP. Equivalent with Vicryl, Safil, Polysorb, Dexon in surgical material.</p>
+				<p>El ácido poliglicólico (PGA) es una sutura sintética absorbible, estéril, multifilamento, que se reúne todos los requisitos establecidos por la USP. Equivalente con Vicryl, Safil, Polysorb, Dexon en material quirúrgico.</p>
 			</div></a>
 
 			<a href="polydioxanone.php"><div class="mas-vendidas">
 				<div class="fondo-gris"><img src="img/mk-pd.png"></div>
 				<h3>Polidioxanona</h3>
-				<p>Polydioxanone suture is a synthetic, ABSORBABLE, monofilament that meets the requirements of the USP, except the diameter that is governed by the parameters of the British Pharmacopoeia. Its component is the Polydioxanone Polymer. Equivalent with PDSII, Mono-Plus in surgical material.</p>
+				<p>Sutura de polidioxanona es un sintético, absorbible monofilamento que cumpla con los requisitos de la USP, excepto el diámetro que se rige por los parámetros de la Farmacopea Británica. Su componente es el Polydioxanon polímero. Equivalente con PDSII, Mono-Plus en material quirúrgico.</p>
 			</div></a>
 
 			<a href="polyglecaprone.php"><div class="mas-vendidas">
 				<div class="fondo-gris"><img src="img/mk-pg.png"></div>
 				<h3>Poliglecaprone</h3>
-				<p>Polyglecaprone is a synthetic suture, ABSORBABLE, sterile, monofilament made of polymer e-Caprolactone and polymer Glycolide (PGCL), meets the requirements of the USP except the diameter which is ruled by the British Pharmacopoeia. Equivalent with Monocryl in surgical material.</p>
+				<p>Poliglecaprone es una sutura sintética absorbible, estéril, monofilamento de polímero e-caprolactona y glicolida polímero (PGCL), cumple con los requerimientos de la USP, excepto el diámetro que se rige por la Farmacopea Británica. Equivalente con Monocryl en material quirúrgico.</p>
 			</div></a>
 
 			<a href="polypropylene.php"><div class="mas-vendidas">
 				<div class="fondo-gris"><img src="img/mk-pp.png"></div>
 				<h3>Polipropileno</h3>
-				<p>The Polypropylene, Non-ABSORBABLE suture, monofilament, whose main component is the isobathic crystalline stereoisomer of polypropylene, a synthetic linear polyolefin. Equivalent with Prolene, Premilene, Surgipro in surgical material.</p>
+				<p>El polipropileno, hilo de sutura no absorbibles, monofilamento, cuyo componente principal es el estereoisómero cristalina isobathic de polipropileno, una poliolefina lineal sintético. Equivalente con prolene, Premilene, Surgipro en material quirúrgico.</p>
 			</div></a>
 
 			<a href="nylon.php"><div class="mas-vendidas">
 				<div class="fondo-gris"><img src="img/mk-nm.png"></div>
 				<h3>POLYESTER</h3>
-				<p>Polyester Non-ABSORBABLE suture of synthetic origin, braided multifilament and Teflon pad multifilament, which meets the USP requirements.Equivalent with Ethbon, Drografil, Ti-Cron, Surgidac in surgical material.</p>
+				<p>Sutura de poliéster no absorbible de origen sintético, multifilamento trenzado y teflón multifilamento almohadilla, que se encuentra con el requirements.Equivalent USP con Ethbon, Drografil, Ti-Cron, SURGIDAC en material quirúrgico.</p>
 			</div></a>
 
 			<a href="black-braided-silk.php"><div class="mas-vendidas">
 				<div class="fondo-gris"><img src="img/mk-st.png"></div>
 				<h3>Seda Negra Trenzada</h3>
-				<p>Black Braided Silk is a suture of natural origin, multifilament that meets the USP requirements. It is composed of an organic protein called fibroin. Equivalent with Mersilk, Silkam, Sofsilk in surgical material.</p>
+				<p>Negro trenzado de seda es una sutura de origen natural, multifilamento que cumple con los requisitos USP. Se compone de una proteína orgánica llamada fibroína. Equivalente con Mersilk, Silkam, Sofsilk en material quirúrgico.</p>
 			</div></a>
 
 			<div class="clear"></div>
