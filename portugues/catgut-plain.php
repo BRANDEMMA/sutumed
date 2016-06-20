@@ -64,36 +64,36 @@
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Absorbable suture.</li>
-					<li>Monofilament thread.</li>
-					<li>Collagen from sheep and cattle.</li>
-					<li>It is absorbed in 70 days by proteolytic digestive enzyme process. Depending on the state of biological defenses of the patient.</li>
+					<li>Fio absorvível.</li>
+					<li>Fio monofilamento.</li>
+					<li>Ovinos e bovinos colágeno.</li>
+					<li>É absorvido em 70 dias pelo processo digestivo da enzima proteolítica. Dependendo do estado de defesas biológicas do paciente.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Outras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Simple Catgut thread in bright yellow – beige.</li>
-					<li>Thread size: from 3/0 to 0 USP.</li>
-					<li>Sterile product.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>Fio categute simples amarelo brilhante - bege.</li>
+					<li>Tamanho: 3/0 a 0USP.</li>
+					<li>Produto estéril.</li>
+					<li>Caixa com 12 ou 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Vantagens e Benefícios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Embalagem assegura a esterilidade do produto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag, With preservative liquid that favors the conservation of the suture.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agulhas siliconizados que permitem mínimo trauma tecidual.</li>
+					<li>Alta resistência à tração.</li>
+					<li>Filamento uniforme evita o arrasto do tecido.</li>
+					<li>Maciez, flexibilidade e elasticidade que facilita o uso e concreção nós.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimentos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>Suture tissue of skin and mucous membranes.</li>
-					<li>General surgery.</li>
+					<li>Pele de sutura dos tecidos e membranas mucosas.</li>
+					<li>Cirurgia geral.</li>
 				</ul>
 			</div>
 

@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,43 +59,43 @@
 			<img src="img/mk-ap.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Polyglycolic Acid &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Ácido Poliglicólico &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Absorbable suture (polyglactyn 910).</li>
-					<li>Generally known under the trade name Vicryl.</li>
-					<li>Strand braided, monofilament.</li>
-					<li>Lactide copolymer suture and glycolic coated polyglactin 370 and calcium stearate.</li>
-					<li>The absorption of this suture is complete within 70 days being absorbed by hydrolysis.</li>
+					<li>Sutura absorvível (polyglactyn 910)</li>
+					<li>Geralmente conhecido sob o nome comercial de Vicryl.</li>
+					<li>Cordão trançado, monofilamento.</li>
+					<li>Copolímero lactido revestido sutura poliglactina e glicólico 370 e estearato de cálcio.</li>
+					<li>A absorção desta sutura está completa dentro de 70 dias de serem absorvidos por hidrólise.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Outras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Polyglycolic Acid thread in violet color.</li>
-					<li>Thread size: from 10/0 to 1 USP.</li>
-					<li>Sterilized by Ethylene Oxide.</li>
-					<li>Boxes per 12 or 36 units.</li>
+					<li>Fios de ácido poliglicólico na cor violeta.</li>
+					<li>Tamanho: 10/0 a 1 USP.</li>
+					<li>Esterilizados com óxido de etileno.</li>
+					<li>Caixas para 12 ou 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Vantagens e Benefícios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Embalagem assegura a esterilidade do produto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agulhas siliconizados que permitem mínimo trauma tecidual.</li>
+					<li>Alta resistência à tração.</li>
+					<li>Filamento uniforme evita o arrasto do tecido.</li>
+					<li>Maciez, flexibilidade e elasticidade que facilita o uso e concreção nós.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
+				<h4>Procedimentos recomendados<br><div class="linea4"></div></h4>
 				<ul>
-					<li>Suture soft tissue.</li>
-					<li>General surgery.</li>
-					<li>Ophthalmic.</li>
+					<li>Tecidos moles sutura.</li>
+					<li>cirurgia geral.</li>
+					<li>Oftálmico.</li>
 				</ul>
 			</div>
 

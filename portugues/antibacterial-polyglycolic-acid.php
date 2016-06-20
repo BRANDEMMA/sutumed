@@ -50,7 +50,7 @@
 	<div class="contenedor-titulo-secciones">
 		<img src="img/banner1.jpg">
 		<div class="titulo-secciones">
-			<h2>SUTURES</h2>
+			<h2>SUTURAS</h2>
 		</div>
 	</div>
 
@@ -59,44 +59,44 @@
 			<img src="img/mk-aa.png">
 		</div>
 		<div class="caracteristicas-producto">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Antibacterial Polyglycolic Acid &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i>&nbsp;&nbsp; Ácido Poliglicólico Antibacteriano &nbsp;&nbsp;<i class="fa fa-caret-left" aria-hidden="true"></i></h3>
 
 			<div class="izq-producto">
 				<h4>General<br><div class="linea1"></div></h4>
 				<ul>
-					<li>Suture fast absorption.</li>
-					<li>Generally known under the trade name Vicryl Plus.</li>
-					<li>Stranded strand.</li>
-					<li>Glycolide and lactic polymer coated polyglactin 370 , calcium stearate and tryclosan.</li>
-					<li>It is absorbed by hydrolysis 40 days.</li>
+					<li>Sutura rápida absorção.</li>
+					<li>Geralmente conhecido sob o nome comercial VicrylPlus.</li>
+					<li>Fio trançado.</li>
+					<li>Glicolido e láctico poliglactina 370 revestida com polímero, estearato de cálcio e triclosan.</li>
+					<li>É absorvido através de hidrólise de cerca de 40 dias.</li>
 				</ul>
 
-				<h4>Other features<br><div class="linea2"></div></h4>
+				<h4>Outras características<br><div class="linea2"></div></h4>
 				<ul>
-					<li>Color: violet.</li>
-					<li>Thread size: from 5/0 to 2 USP.</li>
-					<li>Sterilized by Ethylene Oxide.</li>
-					<li>Boxes with 12 or 36 units.</li>
+					<li>Cor: violeta.</li>
+					<li>Tamanho: de 5/0 a 2 USP.</li>
+					<li>Esterilizados com óxido de etileno.</li>
+					<li>Caixas com 12 ou 36 unidades.</li>
 				</ul>
 			</div>
 
 			<div class="der-producto">
-				<h4>Advantages and Benefits<br><div class="linea3"></div></h4>
+				<h4>Vantagens e Benefícios<br><div class="linea3"></div></h4>
 				<ul>
-					<li>Packaging ensures product sterility.</li>
+					<li>Embalagem assegura a esterilidade do produto.</li>
 					<li>Peel open.</li>
-					<li>Siliconized needles allowing a minimum tissue trauma.</li>
-					<li>High tensile strength.</li>
-					<li>Uniform strand preventing tissue drag.</li>
-					<li>Softness, flexibility and elasticity that facilitates the use and concretion knots.</li>
+					<li>Agulhas siliconizados que permitem mínimo trauma tecidual.</li>
+					<li>Alta resistência à tração.</li>
+					<li>Filamento uniforme evita o arrasto do tecido.</li>
+					<li>Maciez, flexibilidade e elasticidade que facilita o uso e concreção nós.</li>
 				</ul>
 
-				<h4>Recommended procedures<br><div class="linea4"></div></h4>
-				<ul>Suture tissue of skin and mucous membranes in the short term:
-					<li>Skin.</li>
-					<li>Phimosis.</li>
-					<li>Ligatures.</li>
-					<li>Others surgeon consideration.</li>
+				<h4>Procedimentos recomendados<br><div class="linea4"></div></h4>
+				<ul>Sutura da pele e membranas mucosas, a curto prazo:
+					<li>Pele.</li>
+					<li>Fimose.</li>
+					<li>Ligaduras.</li>
+					<li>Outra consideração cirurgião.</li>
 				</ul>
 			</div>
 
