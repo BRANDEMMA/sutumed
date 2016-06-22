@@ -4,7 +4,7 @@
 <div class="contenedor-azul">
 	<div class="logo-texto">
 		<img src="img/logo-sutumed-blanco.png">
-		<p>Sutumed is a company manufacturing surgical suture based in Florida - US, with manufacturing plants in Ecuador and Brazil to meet demand for its products to over 30 countries worldwide. We are recognized worldwide for the high quality of our products, manufactured according to user needs technology and thinking of the welfare of the patient according to the demands of global health institutions that give us certification CE , the FDA approved 510 k and ISO 9001.</p>	
+		<p>Sutumed is a surgical suture company based in Florida - US, with manufacturing plants in Ecuador and Brazil to meet demand for its products to over 30 countries worldwide. We are recognized worldwide for the high quality of our products, manufactured according to user needs technology and thinking of the welfare of the patient according to the demands of global health institutions that give us certification CE , the FDA approved 510 k and ISO 9001.</p>	
 	</div>
 
 	<div class="textos espaciado">
@@ -34,6 +34,8 @@
 		<a href="mailto:info@sutumed.us">info@sutumed.us</a><br></p>
 	</div>
 
+	<img class="logos-pie" src="img/logo-sfcoc.jpg">
+	<img class="logos-pie2" src="img/logo-fcoc.jpg">
 	<div class="clear"></div>
 </div>
 

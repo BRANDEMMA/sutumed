@@ -4,7 +4,7 @@
 <div class="contenedor-azul">
 	<div class="logo-texto">
 		<img src="img/logo-sutumed-blanco.png">
-		<p>Sutumed es una empresa de fabricación de sutura quirúrgica basada en la Florida - Estados Unidos, con plantas de fabricación en Ecuador y Brasil para satisfacer la demanda de sus productos a más de 30 países en todo el mundo. Somos reconocidos en todo el mundo por la alta calidad de nuestros productos, fabricados de acuerdo a las necesidades del usuario la tecnología y pensando en el bienestar del paciente de acuerdo con las exigencias de las instituciones de salud global que nos dan la certificación CE, la FDA aprobó 510 k e ISO 9001.</p>	
+		<p>Sutumed es una empresa de sutura quirúrgica basada en la Florida - Estados Unidos, con plantas de fabricación en Ecuador y Brasil para satisfacer la demanda de sus productos a más de 30 países en todo el mundo. Somos reconocidos en todo el mundo por la alta calidad de nuestros productos, fabricados de acuerdo a las necesidades del usuario la tecnología y pensando en el bienestar del paciente de acuerdo con las exigencias de las instituciones de salud global que nos dan la certificación CE, la FDA aprobó 510 k e ISO 9001.</p>	
 	</div>
 
 	<div class="textos espaciado">
@@ -34,6 +34,8 @@
 		<a href="mailto:info@sutumed.us">info@sutumed.us</a><br></p>
 	</div>
 
+	<img class="logos-pie" src="img/logo-sfcoc.jpg">
+	<img class="logos-pie2" src="img/logo-fcoc.jpg">
 	<div class="clear"></div>
 </div>
 

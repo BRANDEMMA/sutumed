@@ -92,7 +92,7 @@ header{
 	position: absolute;
 }
 .idiomas ul:hover{
-	background-color: rgba(255,255,255,0.5);
+	background-color: rgba(0,0,0,0.7);
 }
 .idiomas ul a{
 	color: white;
@@ -700,6 +700,16 @@ header{
 }
 .espaciado{
 	margin-right: 10%;
+}
+.logos-pie{
+	margin-right: 10px;
+	margin-top: 2%;
+	width: 124px;
+}
+.logos-pie2{
+	margin-bottom: 10px;
+	margin-top: 2%;
+	width: 248px;
 }
 /*--==================== ESTILOS PIE PAGINA (TERMINA)========================--*/
 
