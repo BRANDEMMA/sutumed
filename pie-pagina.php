@@ -34,8 +34,8 @@
 		<a href="mailto:info@sutumed.us">info@sutumed.us</a><br></p>
 	</div>
 
-	<img class="logos-pie" src="img/logo-sfcoc.jpg">
-	<img class="logos-pie2" src="img/logo-fcoc.jpg">
+	<img class="logos-pie" src="img/logo-sfcoc.png">
+	<img class="logos-pie2" src="img/logo-fcoc.png">
 	<div class="clear"></div>
 </div>
 
