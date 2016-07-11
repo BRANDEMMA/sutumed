@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -60,7 +60,10 @@
 
 		<p>
 		<img class="img-nosotros1" src="img/nosotros2.jpg">
-		Temos vindo a oferecer há mais de 50 anos a nossa linha de suturas cirúrgicas que satisfaçam os mais elevados padrões de qualidade (FDA 510k, CE) que contribuem para o desenvolvimento bem sucedido da cirurgia. <br> Sutumed tem presença em mais de 33 países do mundo e seu principal mercado na América Latina. No entanto a nossa preocupação com a melhoria de qualidade em cirurgia levou-nos a ter altos padrões de qualidade, a prova está em nossas certificações internacionais, como ISO 9001, ISO 13486, FDA 510k e CE. Como a nossa preocupação com a inovação em materiais de alta qualidade, tais como agulhas e linhas 302 séries de origem europeia aço cirúrgico de alta qualidade. O que acrescentar às nossas agulhas tecnologia de tratamento de U-Filo fornecer aos nossos borda de aço necessária para uma passagem atraumática suave através de tecidos e nosso processo de controle de qualidade "Um por um" pelo qual nossos suturas são submetidos individualmente a rigorosos testes de qualidade.
+		Temos vindo a oferecer há mais de 50 anos a nossa linha de suturas cirúrgicas que satisfaçam os mais elevados padrões de qualidade (FDA 510k, CE) que contribuem para o desenvolvimento bem sucedido da cirurgia. <br> Sutumed tem presença em mais de 33 países do mundo e seu principal mercado na América Latina. No entanto a nossa preocupação com a melhoria de qualidade em cirurgia levou-nos a ter altos padrões de qualidade, a prova está em nossas certificações internacionais, como ISO 9001, ISO 13486, FDA 510k e CE. Como a nossa preocupação com a inovação em materiais de alta qualidade, tais como agulhas e linhas 302 séries de origem europeia aço cirúrgico de alta qualidade. O que acrescentar às nossas agulhas tecnologia de tratamento de U-Filo fornecer aos nossos borda de aço necessária para uma passagem atraumática suave através de tecidos e nosso processo de controle de qualidade "Um por um" pelo qual nossos suturas são submetidos individualmente a rigorosos testes de qualidade.<br><br>
+
+		Somos certificados pela My Florida Market Place.<br>
+		<img class="logo-mfmp" src="img/mfmp-logo.jpg">
 	
 		<!-- <img class="img-nosotros2" src="img/nosotros3.jpg"> -->		
 		</p>

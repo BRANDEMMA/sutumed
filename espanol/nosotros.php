@@ -61,8 +61,10 @@
 		<p>
 		<img class="img-nosotros1" src="img/nosotros2.jpg">
 		Desde hace más de 50 años venimos comercializando nuestra línea de suturas quirúrgicas satisfaciendo los más altos estándares de calidad (FDA, CE 510k) que contribuyen al desarrollo exitoso de la cirugía.<br>
-		Sutumed tiene presencia en más de 33 países de todo el mundo siendo su principal mercado América Latina. Sin embargo, nuestra preocupación por la mejora de la calidad en la cirugía nos ha llevado a tener altos estándares de calidad, la prueba está en nuestras certificaciones internacionales como ISO 9001, ISO 13486, FDA 510k y CE. Es gracias a nuestro anhelo por la innovación constante de nuestro producto que ahora utilizamos materiales de alta calidad, tales como agujas de serie 302 e hilos de alta calidad de origen europeo. Añadiendo a nuestras agujas nuestra tecnología U-Filo dando un mejor beneficio en la aguja necesaria para un pasaje no traumático a través de los tejidos y nuestro proceso de control de calidad "One by one" por el cual nuestros suturas son sometidas individualmente a rigurosas pruebas de calidad.
+		Sutumed tiene presencia en más de 33 países de todo el mundo siendo su principal mercado América Latina. Sin embargo, nuestra preocupación por la mejora de la calidad en la cirugía nos ha llevado a tener altos estándares de calidad, la prueba está en nuestras certificaciones internacionales como ISO 9001, ISO 13486, FDA 510k y CE. Es gracias a nuestro anhelo por la innovación constante de nuestro producto que ahora utilizamos materiales de alta calidad, tales como agujas de serie 302 e hilos de alta calidad de origen europeo. Añadiendo a nuestras agujas nuestra tecnología U-Filo dando un mejor beneficio en la aguja necesaria para un pasaje no traumático a través de los tejidos y nuestro proceso de control de calidad "One by one" por el cual nuestros suturas son sometidas individualmente a rigurosas pruebas de calidad.<br><br>
 
+		Estamos certificados por My Florida Market Place.<br>
+		<img class="logo-mfmp" src="img/mfmp-logo.jpg">
 	
 		<!-- <img class="img-nosotros2" src="img/nosotros3.jpg"> -->		
 		</p>
